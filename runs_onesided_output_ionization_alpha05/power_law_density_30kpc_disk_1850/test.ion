@@ -1,0 +1,1589 @@
+#hion	zn	gam1	coll ion1	RecTot	HRecCaB	hii/hi	Sim hii/hi	ime_Hrecom_long(esc)	dec2grd	exc pht	exc col	rec eff	sec ion
+hion	   1	3.69e-14	2.96e-15	2.57e-23	3.26e-17	1.55e+09	1.44e+09	1.00e+00	7.80e+08	3.69e-14	2.96e-15	1.24e-16	0.00e+00
+ GammaPrt 1.99 from  1.00e+00 to  7.03e+06R rates > 1.85e-15 of total= 3.69e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	   2	3.68e-14	4.48e-15	5.75e-23	5.60e-17	7.17e+08	6.39e+08	1.00e+00	6.92e+08	3.68e-14	4.48e-15	2.02e-16	0.00e+00
+ GammaPrt 2.25 from  1.00e+00 to  7.03e+06R rates > 1.84e-15 of total= 3.68e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	   3	3.67e-14	5.24e-15	7.86e-23	6.93e-17	5.34e+08	4.68e+08	1.00e+00	6.62e+08	3.67e-14	5.24e-15	2.44e-16	0.00e+00
+ GammaPrt 3.14 from  1.00e+00 to  7.03e+06R rates > 1.84e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	   4	3.67e-14	5.67e-15	9.20e-23	7.73e-17	4.61e+08	3.99e+08	1.00e+00	6.47e+08	3.67e-14	5.67e-15	2.69e-16	0.00e+00
+ GammaPrt 4.13 from  1.00e+00 to  7.03e+06R rates > 1.84e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	   5	3.67e-14	5.87e-15	9.88e-23	8.12e-17	4.31e+08	3.72e+08	1.00e+00	6.41e+08	3.67e-14	5.87e-15	2.80e-16	0.00e+00
+ GammaPrt 5.08 from  1.00e+00 to  7.03e+06R rates > 1.84e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	   6	3.67e-14	6.04e-15	1.05e-22	8.45e-17	4.08e+08	3.50e+08	1.00e+00	6.36e+08	3.67e-14	6.04e-15	2.91e-16	0.00e+00
+ GammaPrt 6.08 from  1.00e+00 to  7.03e+06R rates > 1.84e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	   7	3.67e-14	6.22e-15	1.11e-22	8.81e-17	3.87e+08	3.30e+08	1.00e+00	6.31e+08	3.67e-14	6.22e-15	3.01e-16	0.00e+00
+ GammaPrt 7.07 from  1.00e+00 to  7.03e+06R rates > 1.84e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	   8	3.67e-14	6.40e-15	1.18e-22	9.17e-17	3.66e+08	3.12e+08	1.00e+00	6.26e+08	3.67e-14	6.40e-15	3.12e-16	0.00e+00
+ GammaPrt 8.06 from  1.00e+00 to  7.03e+06R rates > 1.84e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	   9	3.67e-14	6.59e-15	1.25e-22	9.56e-17	3.47e+08	2.94e+08	1.00e+00	6.21e+08	3.67e-14	6.59e-15	3.23e-16	0.00e+00
+ GammaPrt 9.10 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  10	3.67e-14	6.78e-15	1.32e-22	9.96e-17	3.28e+08	2.77e+08	1.00e+00	6.17e+08	3.67e-14	6.78e-15	3.34e-16	0.00e+00
+ GammaPrt 10.16 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  11	3.67e-14	6.97e-15	1.40e-22	1.04e-16	3.11e+08	2.61e+08	1.00e+00	6.12e+08	3.67e-14	6.97e-15	3.46e-16	0.00e+00
+ GammaPrt 11.09 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  12	3.67e-14	7.17e-15	1.49e-22	1.08e-16	2.95e+08	2.47e+08	1.00e+00	6.08e+08	3.67e-14	7.17e-15	3.58e-16	0.00e+00
+ GammaPrt 12.09 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  13	3.67e-14	7.38e-15	1.58e-22	1.13e-16	2.80e+08	2.33e+08	1.00e+00	6.04e+08	3.67e-14	7.38e-15	3.71e-16	0.00e+00
+ GammaPrt 13.09 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  14	3.67e-14	7.58e-15	1.67e-22	1.17e-16	2.66e+08	2.20e+08	1.00e+00	6.00e+08	3.67e-14	7.58e-15	3.83e-16	0.00e+00
+ GammaPrt 14.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  15	3.67e-14	7.79e-15	1.77e-22	1.22e-16	2.52e+08	2.08e+08	1.00e+00	5.95e+08	3.67e-14	7.79e-15	3.97e-16	0.00e+00
+ GammaPrt 15.09 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  16	3.67e-14	8.01e-15	1.87e-22	1.27e-16	2.39e+08	1.96e+08	1.00e+00	5.92e+08	3.67e-14	8.01e-15	4.10e-16	0.00e+00
+ GammaPrt 16.10 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  17	3.67e-14	8.23e-15	1.98e-22	1.32e-16	2.27e+08	1.85e+08	1.00e+00	5.88e+08	3.67e-14	8.23e-15	4.24e-16	0.00e+00
+ GammaPrt 17.10 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  18	3.67e-14	8.46e-15	2.10e-22	1.37e-16	2.15e+08	1.75e+08	1.00e+00	5.84e+08	3.67e-14	8.46e-15	4.39e-16	0.00e+00
+ GammaPrt 18.10 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  19	3.67e-14	8.69e-15	2.22e-22	1.43e-16	2.05e+08	1.65e+08	1.00e+00	5.80e+08	3.67e-14	8.69e-15	4.54e-16	0.00e+00
+ GammaPrt 19.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  20	3.67e-14	8.93e-15	2.35e-22	1.49e-16	1.94e+08	1.56e+08	1.00e+00	5.77e+08	3.67e-14	8.93e-15	4.69e-16	0.00e+00
+ GammaPrt 20.10 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  21	3.67e-14	9.18e-15	2.49e-22	1.55e-16	1.84e+08	1.47e+08	1.00e+00	5.73e+08	3.67e-14	9.18e-15	4.85e-16	0.00e+00
+ GammaPrt 21.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  22	3.67e-14	9.43e-15	2.63e-22	1.61e-16	1.75e+08	1.39e+08	1.00e+00	5.70e+08	3.67e-14	9.43e-15	5.01e-16	0.00e+00
+ GammaPrt 22.10 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  23	3.67e-14	9.66e-15	2.77e-22	1.67e-16	1.67e+08	1.32e+08	1.00e+00	5.67e+08	3.67e-14	9.66e-15	5.16e-16	0.00e+00
+ GammaPrt 23.08 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  24	3.66e-14	9.92e-15	2.93e-22	1.74e-16	1.59e+08	1.25e+08	1.00e+00	5.64e+08	3.66e-14	9.92e-15	5.34e-16	0.00e+00
+ GammaPrt 24.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  25	3.66e-14	1.02e-14	3.09e-22	1.81e-16	1.51e+08	1.19e+08	1.00e+00	5.61e+08	3.66e-14	1.02e-14	5.50e-16	0.00e+00
+ GammaPrt 25.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  26	3.66e-14	1.04e-14	3.27e-22	1.88e-16	1.44e+08	1.12e+08	1.00e+00	5.58e+08	3.66e-14	1.04e-14	5.68e-16	0.00e+00
+ GammaPrt 26.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  27	3.66e-14	1.07e-14	3.46e-22	1.96e-16	1.37e+08	1.06e+08	1.00e+00	5.55e+08	3.66e-14	1.07e-14	5.86e-16	0.00e+00
+ GammaPrt 27.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  28	3.66e-14	1.10e-14	3.64e-22	2.03e-16	1.31e+08	1.01e+08	1.00e+00	5.52e+08	3.66e-14	1.10e-14	6.04e-16	0.00e+00
+ GammaPrt 28.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  29	3.66e-14	1.13e-14	3.85e-22	2.12e-16	1.24e+08	9.51e+07	1.00e+00	5.50e+08	3.66e-14	1.13e-14	6.24e-16	0.00e+00
+ GammaPrt 29.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  30	3.66e-14	1.15e-14	4.05e-22	2.19e-16	1.19e+08	9.05e+07	1.00e+00	5.47e+08	3.66e-14	1.15e-14	6.41e-16	0.00e+00
+ GammaPrt 30.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  31	3.66e-14	1.18e-14	4.28e-22	2.28e-16	1.13e+08	8.56e+07	1.00e+00	5.45e+08	3.66e-14	1.18e-14	6.62e-16	0.00e+00
+ GammaPrt 31.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  32	3.66e-14	1.21e-14	4.50e-22	2.36e-16	1.08e+08	8.14e+07	1.00e+00	5.42e+08	3.66e-14	1.21e-14	6.81e-16	0.00e+00
+ GammaPrt 32.05 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  33	3.66e-14	1.24e-14	4.76e-22	2.46e-16	1.03e+08	7.69e+07	1.00e+00	5.40e+08	3.66e-14	1.24e-14	7.03e-16	0.00e+00
+ GammaPrt 33.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  34	3.66e-14	1.27e-14	5.01e-22	2.55e-16	9.84e+07	7.30e+07	1.00e+00	5.38e+08	3.66e-14	1.27e-14	7.24e-16	0.00e+00
+ GammaPrt 34.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  35	3.66e-14	1.30e-14	5.30e-22	2.66e-16	9.37e+07	6.91e+07	1.00e+00	5.35e+08	3.66e-14	1.30e-14	7.47e-16	0.00e+00
+ GammaPrt 35.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  36	3.66e-14	1.33e-14	5.58e-22	2.75e-16	8.96e+07	6.56e+07	1.00e+00	5.33e+08	3.66e-14	1.33e-14	7.69e-16	0.00e+00
+ GammaPrt 36.06 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  37	3.66e-14	1.37e-14	5.90e-22	2.87e-16	8.53e+07	6.21e+07	1.00e+00	5.31e+08	3.66e-14	1.37e-14	7.93e-16	0.00e+00
+ GammaPrt 37.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  38	3.66e-14	1.40e-14	6.21e-22	2.98e-16	8.15e+07	5.89e+07	1.00e+00	5.29e+08	3.66e-14	1.40e-14	8.16e-16	0.00e+00
+ GammaPrt 38.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  39	3.66e-14	1.43e-14	6.54e-22	3.09e-16	7.79e+07	5.60e+07	1.00e+00	5.27e+08	3.66e-14	1.43e-14	8.39e-16	0.00e+00
+ GammaPrt 39.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  40	3.66e-14	1.47e-14	6.91e-22	3.21e-16	7.42e+07	5.30e+07	1.00e+00	5.25e+08	3.66e-14	1.47e-14	8.65e-16	0.00e+00
+ GammaPrt 40.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  41	3.66e-14	1.50e-14	7.27e-22	3.33e-16	7.10e+07	5.03e+07	1.00e+00	5.23e+08	3.66e-14	1.50e-14	8.91e-16	0.00e+00
+ GammaPrt 41.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  42	3.66e-14	1.54e-14	7.68e-22	3.47e-16	6.76e+07	4.76e+07	1.00e+00	5.21e+08	3.66e-14	1.54e-14	9.18e-16	0.00e+00
+ GammaPrt 42.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  43	3.66e-14	1.57e-14	8.10e-22	3.60e-16	6.46e+07	4.51e+07	1.00e+00	5.20e+08	3.66e-14	1.57e-14	9.45e-16	0.00e+00
+ GammaPrt 43.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  44	3.66e-14	1.61e-14	8.56e-22	3.75e-16	6.16e+07	4.28e+07	1.00e+00	5.18e+08	3.66e-14	1.61e-14	9.74e-16	0.00e+00
+ GammaPrt 44.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  45	3.66e-14	1.65e-14	9.02e-22	3.89e-16	5.88e+07	4.05e+07	1.00e+00	5.16e+08	3.66e-14	1.65e-14	1.00e-15	0.00e+00
+ GammaPrt 45.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  46	3.66e-14	1.69e-14	9.52e-22	4.05e-16	5.61e+07	3.84e+07	1.00e+00	5.15e+08	3.66e-14	1.69e-14	1.03e-15	0.00e+00
+ GammaPrt 46.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  47	3.66e-14	1.73e-14	1.00e-21	4.21e-16	5.36e+07	3.64e+07	1.00e+00	5.13e+08	3.66e-14	1.73e-14	1.06e-15	0.00e+00
+ GammaPrt 47.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  48	3.66e-14	1.77e-14	1.06e-21	4.38e-16	5.11e+07	3.45e+07	1.00e+00	5.12e+08	3.66e-14	1.77e-14	1.10e-15	0.00e+00
+ GammaPrt 48.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  49	3.66e-14	1.81e-14	1.12e-21	4.55e-16	4.88e+07	3.27e+07	1.00e+00	5.10e+08	3.66e-14	1.81e-14	1.13e-15	0.00e+00
+ GammaPrt 49.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  50	3.66e-14	1.85e-14	1.18e-21	4.73e-16	4.66e+07	3.10e+07	1.00e+00	5.09e+08	3.66e-14	1.85e-14	1.16e-15	0.00e+00
+ GammaPrt 50.10 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  51	3.66e-14	1.89e-14	1.25e-21	4.92e-16	4.45e+07	2.94e+07	1.00e+00	5.07e+08	3.66e-14	1.89e-14	1.20e-15	0.00e+00
+ GammaPrt 51.10 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  52	3.66e-14	1.93e-14	1.31e-21	5.12e-16	4.25e+07	2.78e+07	1.00e+00	5.06e+08	3.66e-14	1.93e-14	1.23e-15	0.00e+00
+ GammaPrt 52.10 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  53	3.66e-14	1.97e-14	1.38e-21	5.32e-16	4.06e+07	2.64e+07	1.00e+00	5.05e+08	3.66e-14	1.97e-14	1.27e-15	0.00e+00
+ GammaPrt 53.11 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  54	3.66e-14	2.01e-14	1.46e-21	5.53e-16	3.88e+07	2.50e+07	1.00e+00	5.03e+08	3.66e-14	2.01e-14	1.30e-15	0.00e+00
+ GammaPrt 54.11 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  55	3.66e-14	2.05e-14	1.54e-21	5.75e-16	3.71e+07	2.37e+07	1.00e+00	5.02e+08	3.66e-14	2.05e-14	1.34e-15	0.00e+00
+ GammaPrt 55.10 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  56	3.66e-14	2.10e-14	1.62e-21	5.98e-16	3.55e+07	2.25e+07	1.00e+00	5.01e+08	3.66e-14	2.10e-14	1.38e-15	0.00e+00
+ GammaPrt 56.10 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  57	3.65e-14	2.14e-14	1.71e-21	6.21e-16	3.39e+07	2.14e+07	1.00e+00	5.00e+08	3.65e-14	2.14e-14	1.42e-15	0.00e+00
+ GammaPrt 57.10 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  58	3.65e-14	2.18e-14	1.80e-21	6.46e-16	3.24e+07	2.03e+07	1.00e+00	4.99e+08	3.65e-14	2.18e-14	1.46e-15	0.00e+00
+ GammaPrt 58.10 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  59	3.65e-14	2.23e-14	1.90e-21	6.71e-16	3.10e+07	1.93e+07	1.00e+00	4.98e+08	3.65e-14	2.23e-14	1.51e-15	0.00e+00
+ GammaPrt 59.10 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  60	3.65e-14	2.27e-14	2.00e-21	6.97e-16	2.97e+07	1.83e+07	1.00e+00	4.97e+08	3.65e-14	2.27e-14	1.55e-15	0.00e+00
+ GammaPrt 60.10 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  61	3.65e-14	2.31e-14	2.10e-21	7.24e-16	2.84e+07	1.74e+07	1.00e+00	4.96e+08	3.65e-14	2.31e-14	1.59e-15	0.00e+00
+ GammaPrt 61.12 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  62	3.65e-14	2.36e-14	2.21e-21	7.53e-16	2.72e+07	1.65e+07	1.00e+00	4.95e+08	3.65e-14	2.36e-14	1.64e-15	0.00e+00
+ GammaPrt 62.11 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  63	3.65e-14	2.40e-14	2.33e-21	7.82e-16	2.60e+07	1.57e+07	1.00e+00	4.94e+08	3.65e-14	2.40e-14	1.68e-15	0.00e+00
+ GammaPrt 63.18 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  64	3.65e-14	2.45e-14	2.45e-21	8.12e-16	2.49e+07	1.49e+07	1.00e+00	4.93e+08	3.65e-14	2.45e-14	1.73e-15	0.00e+00
+ GammaPrt 64.14 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  65	3.65e-14	2.50e-14	2.58e-21	8.43e-16	2.38e+07	1.41e+07	1.00e+00	4.92e+08	3.65e-14	2.50e-14	1.78e-15	0.00e+00
+ GammaPrt 65.13 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  66	3.65e-14	2.54e-14	2.72e-21	8.75e-16	2.28e+07	1.34e+07	1.00e+00	4.91e+08	3.65e-14	2.54e-14	1.83e-15	0.00e+00
+ GammaPrt 66.13 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  67	3.65e-14	2.59e-14	2.86e-21	9.08e-16	2.18e+07	1.28e+07	1.00e+00	4.91e+08	3.65e-14	2.59e-14	1.88e-15	0.00e+00
+ GammaPrt 67.13 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  68	3.65e-14	2.64e-14	3.01e-21	9.43e-16	2.09e+07	1.21e+07	1.00e+00	4.90e+08	3.65e-14	2.64e-14	1.93e-15	0.00e+00
+ GammaPrt 68.13 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  69	3.65e-14	2.69e-14	3.17e-21	9.78e-16	2.00e+07	1.15e+07	1.00e+00	4.89e+08	3.65e-14	2.69e-14	1.98e-15	0.00e+00
+ GammaPrt 69.13 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  70	3.65e-14	2.74e-14	3.34e-21	1.02e-15	1.92e+07	1.09e+07	1.00e+00	4.88e+08	3.65e-14	2.74e-14	2.03e-15	0.00e+00
+ GammaPrt 70.13 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  71	3.65e-14	2.80e-14	3.52e-21	1.05e-15	1.83e+07	1.04e+07	1.00e+00	4.88e+08	3.65e-14	2.80e-14	2.08e-15	0.00e+00
+ GammaPrt 71.13 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  72	3.65e-14	2.85e-14	3.69e-21	1.09e-15	1.76e+07	9.90e+06	1.00e+00	4.87e+08	3.65e-14	2.85e-14	2.13e-15	0.00e+00
+ GammaPrt 72.07 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  73	3.65e-14	2.90e-14	3.89e-21	1.13e-15	1.69e+07	9.39e+06	1.00e+00	4.87e+08	3.65e-14	2.90e-14	2.18e-15	0.00e+00
+ GammaPrt 73.15 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  74	3.65e-14	2.96e-14	4.08e-21	1.17e-15	1.62e+07	8.95e+06	1.00e+00	4.86e+08	3.65e-14	2.96e-14	2.23e-15	0.00e+00
+ GammaPrt 74.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  75	3.65e-14	3.02e-14	4.30e-21	1.21e-15	1.55e+07	8.48e+06	1.00e+00	4.85e+08	3.65e-14	3.02e-14	2.28e-15	0.00e+00
+ GammaPrt 75.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  76	3.65e-14	3.07e-14	4.51e-21	1.25e-15	1.49e+07	8.10e+06	1.00e+00	4.85e+08	3.65e-14	3.07e-14	2.33e-15	0.00e+00
+ GammaPrt 76.06 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  77	3.65e-14	3.14e-14	4.76e-21	1.29e-15	1.43e+07	7.66e+06	1.00e+00	4.84e+08	3.65e-14	3.14e-14	2.39e-15	0.00e+00
+ GammaPrt 77.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  78	3.65e-14	3.20e-14	4.99e-21	1.33e-15	1.37e+07	7.31e+06	1.00e+00	4.84e+08	3.65e-14	3.20e-14	2.43e-15	0.00e+00
+ GammaPrt 78.06 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  79	3.65e-14	3.26e-14	5.22e-21	1.37e-15	1.32e+07	6.99e+06	1.00e+00	4.84e+08	3.65e-14	3.26e-14	2.48e-15	0.00e+00
+ GammaPrt 79.05 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  80	3.65e-14	3.33e-14	5.53e-21	1.42e-15	1.26e+07	6.60e+06	1.00e+00	4.83e+08	3.65e-14	3.33e-14	2.53e-15	0.00e+00
+ GammaPrt 80.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  81	3.65e-14	3.39e-14	5.77e-21	1.46e-15	1.22e+07	6.32e+06	1.00e+00	4.83e+08	3.65e-14	3.39e-14	2.57e-15	0.00e+00
+ GammaPrt 81.08 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  82	3.65e-14	3.47e-14	6.11e-21	1.51e-15	1.17e+07	5.97e+06	1.00e+00	4.82e+08	3.65e-14	3.47e-14	2.62e-15	0.00e+00
+ GammaPrt 82.08 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  83	3.65e-14	3.54e-14	6.38e-21	1.56e-15	1.13e+07	5.71e+06	1.00e+00	4.82e+08	3.65e-14	3.54e-14	2.67e-15	0.00e+00
+ GammaPrt 83.06 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  84	3.65e-14	3.62e-14	6.76e-21	1.61e-15	1.08e+07	5.40e+06	1.00e+00	4.81e+08	3.65e-14	3.62e-14	2.72e-15	0.00e+00
+ GammaPrt 84.08 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  85	3.65e-14	3.69e-14	7.06e-21	1.65e-15	1.04e+07	5.17e+06	1.00e+00	4.81e+08	3.65e-14	3.69e-14	2.75e-15	0.00e+00
+ GammaPrt 85.06 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  86	3.65e-14	3.78e-14	7.47e-21	1.71e-15	9.94e+06	4.88e+06	1.00e+00	4.81e+08	3.65e-14	3.78e-14	2.81e-15	0.00e+00
+ GammaPrt 86.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  87	3.64e-14	3.85e-14	7.77e-21	1.75e-15	9.64e+06	4.69e+06	1.00e+00	4.81e+08	3.64e-14	3.85e-14	2.84e-15	0.00e+00
+ GammaPrt 87.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  88	3.64e-14	3.94e-14	8.20e-21	1.80e-15	9.25e+06	4.44e+06	1.00e+00	4.80e+08	3.64e-14	3.94e-14	2.88e-15	0.00e+00
+ GammaPrt 88.12 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  89	3.64e-14	4.01e-14	8.57e-21	1.85e-15	8.94e+06	4.25e+06	1.00e+00	4.80e+08	3.64e-14	4.01e-14	2.92e-15	0.00e+00
+ GammaPrt 89.06 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  90	3.64e-14	4.11e-14	9.06e-21	1.91e-15	8.56e+06	4.02e+06	1.00e+00	4.80e+08	3.64e-14	4.11e-14	2.97e-15	0.00e+00
+ GammaPrt 90.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  91	3.64e-14	4.19e-14	9.45e-21	1.95e-15	8.29e+06	3.86e+06	1.00e+00	4.79e+08	3.64e-14	4.19e-14	3.00e-15	0.00e+00
+ GammaPrt 91.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  92	3.64e-14	4.29e-14	9.99e-21	2.02e-15	7.94e+06	3.65e+06	1.00e+00	4.79e+08	3.64e-14	4.29e-14	3.05e-15	0.00e+00
+ GammaPrt 92.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  93	3.64e-14	4.37e-14	1.04e-20	2.07e-15	7.68e+06	3.49e+06	1.00e+00	4.79e+08	3.64e-14	4.37e-14	3.09e-15	0.00e+00
+ GammaPrt 93.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  94	3.64e-14	4.48e-14	1.11e-20	2.13e-15	7.34e+06	3.29e+06	1.00e+00	4.79e+08	3.64e-14	4.48e-14	3.14e-15	0.00e+00
+ GammaPrt 94.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  95	3.64e-14	4.56e-14	1.16e-20	2.19e-15	7.09e+06	3.15e+06	1.00e+00	4.78e+08	3.64e-14	4.56e-14	3.17e-15	0.00e+00
+ GammaPrt 95.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  96	3.64e-14	4.65e-14	1.21e-20	2.24e-15	6.86e+06	3.01e+06	1.00e+00	4.78e+08	3.64e-14	4.65e-14	3.21e-15	0.00e+00
+ GammaPrt 96.06 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  97	3.64e-14	4.72e-14	1.26e-20	2.30e-15	6.64e+06	2.89e+06	1.00e+00	4.78e+08	3.64e-14	4.72e-14	3.25e-15	0.00e+00
+ GammaPrt 97.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  98	3.64e-14	4.83e-14	1.33e-20	2.37e-15	6.38e+06	2.74e+06	1.00e+00	4.78e+08	3.64e-14	4.83e-14	3.30e-15	0.00e+00
+ GammaPrt 98.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	  99	3.64e-14	4.90e-14	1.38e-20	2.42e-15	6.18e+06	2.63e+06	1.00e+00	4.78e+08	3.64e-14	4.90e-14	3.34e-15	0.00e+00
+ GammaPrt 99.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 100	3.64e-14	5.01e-14	1.46e-20	2.50e-15	5.92e+06	2.49e+06	1.00e+00	4.77e+08	3.64e-14	5.01e-14	3.39e-15	0.00e+00
+ GammaPrt 100.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 101	3.64e-14	5.07e-14	1.51e-20	2.55e-15	5.77e+06	2.41e+06	1.00e+00	4.77e+08	3.64e-14	5.07e-14	3.42e-15	0.00e+00
+ GammaPrt 101.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 102	3.64e-14	5.13e-14	1.56e-20	2.60e-15	5.62e+06	2.33e+06	1.00e+00	4.77e+08	3.64e-14	5.13e-14	3.46e-15	0.00e+00
+ GammaPrt 102.12 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 103	3.64e-14	5.19e-14	1.61e-20	2.65e-15	5.48e+06	2.26e+06	1.00e+00	4.77e+08	3.64e-14	5.19e-14	3.50e-15	0.00e+00
+ GammaPrt 103.08 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 104	3.64e-14	5.27e-14	1.68e-20	2.72e-15	5.31e+06	2.17e+06	1.00e+00	4.77e+08	3.64e-14	5.27e-14	3.55e-15	0.00e+00
+ GammaPrt 104.06 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 105	3.64e-14	5.32e-14	1.73e-20	2.76e-15	5.18e+06	2.10e+06	1.00e+00	4.77e+08	3.64e-14	5.32e-14	3.58e-15	0.00e+00
+ GammaPrt 105.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 106	3.64e-14	5.39e-14	1.80e-20	2.84e-15	5.02e+06	2.02e+06	1.00e+00	4.77e+08	3.64e-14	5.39e-14	3.64e-15	0.00e+00
+ GammaPrt 106.08 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 107	3.64e-14	5.44e-14	1.85e-20	2.88e-15	4.91e+06	1.97e+06	1.00e+00	4.77e+08	3.64e-14	5.44e-14	3.67e-15	0.00e+00
+ GammaPrt 107.07 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 108	3.64e-14	5.50e-14	1.92e-20	2.95e-15	4.75e+06	1.89e+06	1.00e+00	4.77e+08	3.64e-14	5.50e-14	3.72e-15	0.00e+00
+ GammaPrt 108.06 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 109	3.64e-14	5.55e-14	1.98e-20	3.00e-15	4.65e+06	1.84e+06	1.00e+00	4.76e+08	3.64e-14	5.55e-14	3.76e-15	0.00e+00
+ GammaPrt 109.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 110	3.64e-14	5.61e-14	2.06e-20	3.08e-15	4.49e+06	1.77e+06	1.00e+00	4.76e+08	3.64e-14	5.61e-14	3.82e-15	0.00e+00
+ GammaPrt 110.08 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 111	3.64e-14	5.66e-14	2.11e-20	3.14e-15	4.40e+06	1.72e+06	1.00e+00	4.76e+08	3.64e-14	5.66e-14	3.86e-15	0.00e+00
+ GammaPrt 111.08 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 112	3.64e-14	5.71e-14	2.19e-20	3.21e-15	4.26e+06	1.66e+06	1.00e+00	4.76e+08	3.64e-14	5.71e-14	3.92e-15	0.00e+00
+ GammaPrt 112.06 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 113	3.64e-14	5.76e-14	2.26e-20	3.28e-15	4.15e+06	1.61e+06	1.00e+00	4.76e+08	3.64e-14	5.76e-14	3.97e-15	0.00e+00
+ GammaPrt 113.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 114	3.64e-14	5.80e-14	2.32e-20	3.33e-15	4.06e+06	1.57e+06	1.00e+00	4.76e+08	3.64e-14	5.80e-14	4.01e-15	0.00e+00
+ GammaPrt 114.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 115	3.64e-14	5.84e-14	2.42e-20	3.43e-15	3.92e+06	1.50e+06	1.00e+00	4.76e+08	3.64e-14	5.84e-14	4.10e-15	0.00e+00
+ GammaPrt 115.08 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 116	3.64e-14	5.88e-14	2.48e-20	3.48e-15	3.84e+06	1.47e+06	1.00e+00	4.76e+08	3.64e-14	5.88e-14	4.14e-15	0.00e+00
+ GammaPrt 116.07 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 117	3.64e-14	5.92e-14	2.57e-20	3.57e-15	3.72e+06	1.42e+06	1.00e+00	4.76e+08	3.64e-14	5.92e-14	4.21e-15	0.00e+00
+ GammaPrt 117.06 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 118	3.64e-14	5.95e-14	2.64e-20	3.64e-15	3.63e+06	1.38e+06	1.00e+00	4.76e+08	3.64e-14	5.95e-14	4.27e-15	0.00e+00
+ GammaPrt 118.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 119	3.64e-14	5.99e-14	2.75e-20	3.75e-15	3.50e+06	1.32e+06	1.00e+00	4.76e+08	3.64e-14	5.99e-14	4.37e-15	0.00e+00
+ GammaPrt 119.08 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 120	3.63e-14	6.02e-14	2.83e-20	3.82e-15	3.41e+06	1.28e+06	1.00e+00	4.75e+08	3.63e-14	6.02e-14	4.43e-15	0.00e+00
+ GammaPrt 120.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 121	3.63e-14	6.05e-14	2.94e-20	3.93e-15	3.29e+06	1.24e+06	1.00e+00	4.75e+08	3.63e-14	6.05e-14	4.52e-15	0.00e+00
+ GammaPrt 121.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 122	3.63e-14	6.07e-14	3.04e-20	4.02e-15	3.20e+06	1.20e+06	1.00e+00	4.75e+08	3.63e-14	6.07e-14	4.61e-15	0.00e+00
+ GammaPrt 122.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 123	3.63e-14	6.10e-14	3.17e-20	4.15e-15	3.07e+06	1.15e+06	1.00e+00	4.75e+08	3.63e-14	6.10e-14	4.72e-15	0.00e+00
+ GammaPrt 123.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 124	3.63e-14	6.11e-14	3.27e-20	4.25e-15	2.99e+06	1.11e+06	1.00e+00	4.75e+08	3.63e-14	6.11e-14	4.81e-15	0.00e+00
+ GammaPrt 124.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 125	3.63e-14	6.13e-14	3.40e-20	4.38e-15	2.87e+06	1.07e+06	1.00e+00	4.75e+08	3.63e-14	6.13e-14	4.94e-15	0.00e+00
+ GammaPrt 125.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 126	3.63e-14	6.14e-14	3.52e-20	4.50e-15	2.78e+06	1.03e+06	1.00e+00	4.75e+08	3.63e-14	6.14e-14	5.04e-15	0.00e+00
+ GammaPrt 126.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 127	3.63e-14	6.15e-14	3.63e-20	4.61e-15	2.69e+06	1.00e+06	1.00e+00	4.75e+08	3.63e-14	6.15e-14	5.15e-15	0.00e+00
+ GammaPrt 127.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 128	3.63e-14	6.15e-14	3.75e-20	4.73e-15	2.61e+06	9.68e+05	1.00e+00	4.75e+08	3.63e-14	6.15e-14	5.26e-15	0.00e+00
+ GammaPrt 128.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 129	3.63e-14	6.15e-14	3.92e-20	4.89e-15	2.50e+06	9.27e+05	1.00e+00	4.75e+08	3.63e-14	6.15e-14	5.42e-15	0.00e+00
+ GammaPrt 129.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 130	3.63e-14	6.14e-14	4.05e-20	5.02e-15	2.42e+06	8.97e+05	1.00e+00	4.75e+08	3.63e-14	6.14e-14	5.55e-15	0.00e+00
+ GammaPrt 130.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 131	3.63e-14	6.13e-14	4.24e-20	5.21e-15	2.31e+06	8.58e+05	1.00e+00	4.75e+08	3.63e-14	6.13e-14	5.73e-15	0.00e+00
+ GammaPrt 131.11 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 132	3.63e-14	6.13e-14	4.37e-20	5.33e-15	2.24e+06	8.32e+05	1.00e+00	4.75e+08	3.63e-14	6.13e-14	5.86e-15	0.00e+00
+ GammaPrt 132.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 133	3.63e-14	6.12e-14	4.56e-20	5.52e-15	2.14e+06	7.97e+05	1.00e+00	4.75e+08	3.63e-14	6.12e-14	6.04e-15	0.00e+00
+ GammaPrt 133.10 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 134	3.63e-14	6.10e-14	4.73e-20	5.68e-15	2.06e+06	7.69e+05	1.00e+00	4.75e+08	3.63e-14	6.10e-14	6.20e-15	0.00e+00
+ GammaPrt 134.06 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 135	3.63e-14	6.08e-14	4.89e-20	5.84e-15	1.99e+06	7.42e+05	1.00e+00	4.74e+08	3.63e-14	6.08e-14	6.37e-15	0.00e+00
+ GammaPrt 135.06 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 136	3.63e-14	6.06e-14	5.11e-20	6.05e-15	1.90e+06	7.10e+05	1.00e+00	4.74e+08	3.63e-14	6.06e-14	6.58e-15	0.00e+00
+ GammaPrt 136.08 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 137	3.63e-14	6.04e-14	5.30e-20	6.23e-15	1.83e+06	6.85e+05	1.00e+00	4.74e+08	3.63e-14	6.04e-14	6.76e-15	0.00e+00
+ GammaPrt 137.08 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 138	3.63e-14	6.01e-14	5.54e-20	6.45e-15	1.74e+06	6.56e+05	1.00e+00	4.74e+08	3.63e-14	6.01e-14	6.99e-15	0.00e+00
+ GammaPrt 138.08 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 139	3.63e-14	5.98e-14	5.75e-20	6.64e-15	1.67e+06	6.32e+05	1.00e+00	4.74e+08	3.63e-14	5.98e-14	7.20e-15	0.00e+00
+ GammaPrt 139.06 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 140	3.63e-14	5.94e-14	6.00e-20	6.87e-15	1.60e+06	6.05e+05	1.00e+00	4.74e+08	3.63e-14	5.94e-14	7.44e-15	0.00e+00
+ GammaPrt 140.08 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 141	3.63e-14	5.91e-14	6.23e-20	7.09e-15	1.53e+06	5.83e+05	1.00e+00	4.74e+08	3.63e-14	5.91e-14	7.66e-15	0.00e+00
+ GammaPrt 141.05 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 142	3.63e-14	5.87e-14	6.50e-20	7.33e-15	1.46e+06	5.59e+05	1.00e+00	4.74e+08	3.63e-14	5.87e-14	7.92e-15	0.00e+00
+ GammaPrt 142.08 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 143	3.63e-14	5.84e-14	6.74e-20	7.54e-15	1.41e+06	5.39e+05	1.00e+00	4.74e+08	3.63e-14	5.84e-14	8.14e-15	0.00e+00
+ GammaPrt 143.06 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 144	3.63e-14	5.80e-14	7.03e-20	7.80e-15	1.34e+06	5.16e+05	1.00e+00	4.74e+08	3.63e-14	5.80e-14	8.42e-15	0.00e+00
+ GammaPrt 144.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 145	3.63e-14	5.77e-14	7.29e-20	8.02e-15	1.29e+06	4.98e+05	1.00e+00	4.74e+08	3.63e-14	5.77e-14	8.66e-15	0.00e+00
+ GammaPrt 145.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 146	3.63e-14	5.73e-14	7.61e-20	8.29e-15	1.23e+06	4.77e+05	1.00e+00	4.74e+08	3.63e-14	5.73e-14	8.95e-15	0.00e+00
+ GammaPrt 146.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 147	3.63e-14	5.69e-14	7.90e-20	8.53e-15	1.18e+06	4.59e+05	1.00e+00	4.74e+08	3.63e-14	5.69e-14	9.20e-15	0.00e+00
+ GammaPrt 147.05 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 148	3.63e-14	5.65e-14	8.25e-20	8.81e-15	1.13e+06	4.40e+05	1.00e+00	4.74e+08	3.63e-14	5.65e-14	9.50e-15	0.00e+00
+ GammaPrt 148.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 149	3.63e-14	5.62e-14	8.56e-20	9.06e-15	1.08e+06	4.24e+05	1.00e+00	4.74e+08	3.63e-14	5.62e-14	9.77e-15	0.00e+00
+ GammaPrt 149.05 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 150	3.63e-14	5.58e-14	8.95e-20	9.36e-15	1.03e+06	4.06e+05	1.00e+00	4.74e+08	3.63e-14	5.58e-14	1.01e-14	0.00e+00
+ GammaPrt 150.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 151	3.63e-14	5.54e-14	9.29e-20	9.62e-15	9.87e+05	3.90e+05	1.00e+00	4.74e+08	3.63e-14	5.54e-14	1.04e-14	0.00e+00
+ GammaPrt 151.05 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 152	3.63e-14	5.51e-14	9.71e-20	9.93e-15	9.41e+05	3.74e+05	1.00e+00	4.74e+08	3.63e-14	5.51e-14	1.07e-14	0.00e+00
+ GammaPrt 152.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 153	3.63e-14	5.48e-14	1.01e-19	1.02e-14	9.03e+05	3.60e+05	1.00e+00	4.74e+08	3.63e-14	5.48e-14	1.10e-14	0.00e+00
+ GammaPrt 153.05 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 154	3.63e-14	5.44e-14	1.06e-19	1.05e-14	8.59e+05	3.43e+05	1.00e+00	4.74e+08	3.63e-14	5.44e-14	1.13e-14	0.00e+00
+ GammaPrt 154.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 155	3.63e-14	5.42e-14	1.10e-19	1.08e-14	8.26e+05	3.31e+05	1.00e+00	4.74e+08	3.63e-14	5.42e-14	1.16e-14	0.00e+00
+ GammaPrt 155.06 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 156	3.63e-14	5.39e-14	1.15e-19	1.11e-14	7.85e+05	3.16e+05	1.00e+00	4.74e+08	3.63e-14	5.39e-14	1.19e-14	0.00e+00
+ GammaPrt 156.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 157	3.63e-14	5.37e-14	1.19e-19	1.14e-14	7.55e+05	3.04e+05	1.00e+00	4.74e+08	3.63e-14	5.37e-14	1.22e-14	0.00e+00
+ GammaPrt 157.06 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 158	3.63e-14	5.35e-14	1.23e-19	1.16e-14	7.29e+05	2.94e+05	1.00e+00	4.74e+08	3.63e-14	5.35e-14	1.24e-14	0.00e+00
+ GammaPrt 158.12 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 159	3.63e-14	5.32e-14	1.29e-19	1.20e-14	6.95e+05	2.82e+05	1.00e+00	4.74e+08	3.63e-14	5.32e-14	1.28e-14	0.00e+00
+ GammaPrt 159.10 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 160	3.63e-14	5.30e-14	1.33e-19	1.22e-14	6.72e+05	2.73e+05	1.00e+00	4.74e+08	3.63e-14	5.30e-14	1.30e-14	0.00e+00
+ GammaPrt 160.06 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 161	3.63e-14	5.28e-14	1.39e-19	1.26e-14	6.42e+05	2.61e+05	1.00e+00	4.74e+08	3.63e-14	5.28e-14	1.34e-14	0.00e+00
+ GammaPrt 161.10 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 162	3.63e-14	5.27e-14	1.43e-19	1.28e-14	6.20e+05	2.53e+05	1.00e+00	4.74e+08	3.63e-14	5.27e-14	1.36e-14	0.00e+00
+ GammaPrt 162.10 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 163	3.62e-14	5.25e-14	1.48e-19	1.30e-14	5.99e+05	2.45e+05	1.00e+00	4.74e+08	3.62e-14	5.25e-14	1.39e-14	0.00e+00
+ GammaPrt 163.06 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 164	3.62e-14	5.24e-14	1.54e-19	1.34e-14	5.75e+05	2.35e+05	1.00e+00	4.74e+08	3.62e-14	5.24e-14	1.42e-14	0.00e+00
+ GammaPrt 164.06 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 165	3.62e-14	5.23e-14	1.59e-19	1.36e-14	5.56e+05	2.27e+05	1.00e+00	4.74e+08	3.62e-14	5.23e-14	1.44e-14	0.00e+00
+ GammaPrt 165.06 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 166	3.62e-14	5.20e-14	1.66e-19	1.40e-14	5.31e+05	2.18e+05	1.00e+00	4.74e+08	3.62e-14	5.20e-14	1.47e-14	0.00e+00
+ GammaPrt 166.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 167	3.62e-14	5.20e-14	1.71e-19	1.42e-14	5.15e+05	2.12e+05	1.00e+00	4.74e+08	3.62e-14	5.20e-14	1.49e-14	0.00e+00
+ GammaPrt 167.10 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 168	3.62e-14	5.18e-14	1.79e-19	1.45e-14	4.94e+05	2.03e+05	1.00e+00	4.73e+08	3.62e-14	5.18e-14	1.53e-14	0.00e+00
+ GammaPrt 168.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 169	3.62e-14	5.18e-14	1.84e-19	1.48e-14	4.79e+05	1.97e+05	1.00e+00	4.73e+08	3.62e-14	5.18e-14	1.55e-14	0.00e+00
+ GammaPrt 169.10 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 170	3.62e-14	5.17e-14	1.92e-19	1.51e-14	4.59e+05	1.89e+05	1.00e+00	4.73e+08	3.62e-14	5.17e-14	1.58e-14	0.00e+00
+ GammaPrt 170.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 171	3.62e-14	5.17e-14	1.98e-19	1.53e-14	4.45e+05	1.83e+05	1.00e+00	4.73e+08	3.62e-14	5.17e-14	1.60e-14	0.00e+00
+ GammaPrt 171.10 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 172	3.62e-14	5.17e-14	2.04e-19	1.56e-14	4.31e+05	1.78e+05	1.00e+00	4.73e+08	3.62e-14	5.17e-14	1.62e-14	0.00e+00
+ GammaPrt 172.10 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 173	3.62e-14	5.16e-14	2.12e-19	1.59e-14	4.14e+05	1.71e+05	1.00e+00	4.73e+08	3.62e-14	5.16e-14	1.65e-14	0.00e+00
+ GammaPrt 173.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 174	3.62e-14	5.17e-14	2.18e-19	1.61e-14	4.03e+05	1.66e+05	1.00e+00	4.73e+08	3.62e-14	5.17e-14	1.67e-14	0.00e+00
+ GammaPrt 174.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 175	3.62e-14	5.16e-14	2.27e-19	1.65e-14	3.87e+05	1.59e+05	1.00e+00	4.73e+08	3.62e-14	5.16e-14	1.70e-14	0.00e+00
+ GammaPrt 175.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 176	3.62e-14	5.18e-14	2.33e-19	1.67e-14	3.77e+05	1.55e+05	1.00e+00	4.73e+08	3.62e-14	5.18e-14	1.71e-14	0.00e+00
+ GammaPrt 176.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 177	3.62e-14	5.18e-14	2.43e-19	1.70e-14	3.63e+05	1.49e+05	1.00e+00	4.73e+08	3.62e-14	5.18e-14	1.74e-14	0.00e+00
+ GammaPrt 177.05 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 178	3.62e-14	5.20e-14	2.50e-19	1.72e-14	3.53e+05	1.45e+05	1.00e+00	4.73e+08	3.62e-14	5.20e-14	1.75e-14	0.00e+00
+ GammaPrt 178.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 179	3.62e-14	5.21e-14	2.60e-19	1.75e-14	3.40e+05	1.39e+05	1.00e+00	4.73e+08	3.62e-14	5.21e-14	1.78e-14	0.00e+00
+ GammaPrt 179.06 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 180	3.62e-14	5.23e-14	2.68e-19	1.77e-14	3.30e+05	1.35e+05	1.00e+00	4.73e+08	3.62e-14	5.23e-14	1.80e-14	0.00e+00
+ GammaPrt 180.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 181	3.62e-14	5.25e-14	2.79e-19	1.80e-14	3.18e+05	1.30e+05	1.00e+00	4.73e+08	3.62e-14	5.25e-14	1.82e-14	0.00e+00
+ GammaPrt 181.05 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 182	3.62e-14	5.28e-14	2.88e-19	1.83e-14	3.09e+05	1.26e+05	1.00e+00	4.73e+08	3.62e-14	5.28e-14	1.83e-14	0.00e+00
+ GammaPrt 182.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 183	3.62e-14	5.30e-14	3.01e-19	1.86e-14	2.97e+05	1.20e+05	1.00e+00	4.73e+08	3.62e-14	5.30e-14	1.85e-14	0.00e+00
+ GammaPrt 183.05 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 184	3.62e-14	5.34e-14	3.11e-19	1.88e-14	2.89e+05	1.16e+05	1.00e+00	4.73e+08	3.62e-14	5.34e-14	1.87e-14	0.00e+00
+ GammaPrt 184.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 185	3.62e-14	5.37e-14	3.25e-19	1.92e-14	2.77e+05	1.11e+05	1.00e+00	4.73e+08	3.62e-14	5.37e-14	1.89e-14	0.00e+00
+ GammaPrt 185.06 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 186	3.62e-14	5.40e-14	3.36e-19	1.94e-14	2.69e+05	1.08e+05	1.00e+00	4.73e+08	3.62e-14	5.40e-14	1.90e-14	0.00e+00
+ GammaPrt 186.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 187	3.62e-14	5.44e-14	3.51e-19	1.97e-14	2.58e+05	1.03e+05	1.00e+00	4.73e+08	3.62e-14	5.44e-14	1.92e-14	0.00e+00
+ GammaPrt 187.05 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 188	3.62e-14	5.48e-14	3.64e-19	2.00e-14	2.50e+05	9.94e+04	1.00e+00	4.73e+08	3.62e-14	5.48e-14	1.93e-14	0.00e+00
+ GammaPrt 188.09 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 189	3.62e-14	5.50e-14	3.82e-19	2.04e-14	2.39e+05	9.46e+04	1.00e+00	4.73e+08	3.62e-14	5.50e-14	1.96e-14	0.00e+00
+ GammaPrt 189.09 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 190	3.62e-14	5.55e-14	3.96e-19	2.06e-14	2.32e+05	9.13e+04	1.00e+00	4.73e+08	3.62e-14	5.55e-14	1.97e-14	0.00e+00
+ GammaPrt 190.09 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 191	3.62e-14	5.56e-14	4.17e-19	2.11e-14	2.21e+05	8.68e+04	1.00e+00	4.73e+08	3.62e-14	5.56e-14	2.00e-14	0.00e+00
+ GammaPrt 191.09 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 192	3.62e-14	5.59e-14	4.33e-19	2.14e-14	2.13e+05	8.35e+04	1.00e+00	4.72e+08	3.62e-14	5.59e-14	2.02e-14	0.00e+00
+ GammaPrt 192.11 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 193	3.62e-14	5.60e-14	4.48e-19	2.17e-14	2.06e+05	8.06e+04	1.00e+00	4.72e+08	3.62e-14	5.60e-14	2.04e-14	0.00e+00
+ GammaPrt 193.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 194	3.61e-14	5.60e-14	4.70e-19	2.22e-14	1.96e+05	7.69e+04	1.00e+00	4.72e+08	3.61e-14	5.60e-14	2.08e-14	0.00e+00
+ GammaPrt 194.09 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 195	3.61e-14	5.60e-14	4.87e-19	2.25e-14	1.89e+05	7.42e+04	1.00e+00	4.72e+08	3.61e-14	5.60e-14	2.10e-14	0.00e+00
+ GammaPrt 195.10 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 196	3.61e-14	5.58e-14	5.12e-19	2.30e-14	1.80e+05	7.06e+04	1.00e+00	4.72e+08	3.61e-14	5.58e-14	2.15e-14	0.00e+00
+ GammaPrt 196.09 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 197	3.61e-14	5.57e-14	5.31e-19	2.34e-14	1.73e+05	6.80e+04	1.00e+00	4.72e+08	3.61e-14	5.57e-14	2.18e-14	0.00e+00
+ GammaPrt 197.10 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 198	3.61e-14	5.51e-14	5.60e-19	2.40e-14	1.63e+05	6.46e+04	1.00e+00	4.72e+08	3.61e-14	5.51e-14	2.24e-14	0.00e+00
+ GammaPrt 198.08 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 199	3.61e-14	5.49e-14	5.82e-19	2.44e-14	1.57e+05	6.21e+04	1.00e+00	4.72e+08	3.61e-14	5.49e-14	2.28e-14	0.00e+00
+ GammaPrt 199.10 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 200	3.61e-14	5.41e-14	6.14e-19	2.51e-14	1.47e+05	5.88e+04	1.00e+00	4.71e+08	3.61e-14	5.41e-14	2.35e-14	0.00e+00
+ GammaPrt 200.10 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 201	3.61e-14	5.35e-14	6.41e-19	2.56e-14	1.40e+05	5.64e+04	1.00e+00	4.71e+08	3.61e-14	5.35e-14	2.41e-14	0.00e+00
+ GammaPrt 201.10 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 202	3.61e-14	5.23e-14	6.79e-19	2.64e-14	1.31e+05	5.32e+04	1.00e+00	4.71e+08	3.61e-14	5.23e-14	2.50e-14	0.00e+00
+ GammaPrt 202.10 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 203	3.61e-14	5.14e-14	7.10e-19	2.71e-14	1.23e+05	5.09e+04	1.00e+00	4.71e+08	3.61e-14	5.14e-14	2.58e-14	0.00e+00
+ GammaPrt 203.10 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 204	3.61e-14	5.00e-14	7.55e-19	2.80e-14	1.14e+05	4.79e+04	1.00e+00	4.71e+08	3.61e-14	5.00e-14	2.70e-14	0.00e+00
+ GammaPrt 204.10 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 205	3.61e-14	4.90e-14	7.86e-19	2.86e-14	1.08e+05	4.59e+04	1.00e+00	4.70e+08	3.61e-14	4.90e-14	2.78e-14	0.00e+00
+ GammaPrt 205.10 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 206	3.61e-14	4.74e-14	8.32e-19	2.96e-14	1.01e+05	4.34e+04	1.00e+00	4.70e+08	3.61e-14	4.74e-14	2.91e-14	0.00e+00
+ GammaPrt 206.10 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 207	3.61e-14	4.61e-14	8.70e-19	3.04e-14	9.47e+04	4.15e+04	1.00e+00	4.70e+08	3.61e-14	4.61e-14	3.02e-14	0.00e+00
+ GammaPrt 207.10 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 208	3.61e-14	4.44e-14	9.19e-19	3.14e-14	8.77e+04	3.93e+04	1.00e+00	4.69e+08	3.61e-14	4.44e-14	3.17e-14	0.00e+00
+ GammaPrt 208.10 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 209	3.61e-14	4.28e-14	9.65e-19	3.23e-14	8.20e+04	3.74e+04	1.00e+00	4.69e+08	3.61e-14	4.28e-14	3.31e-14	0.00e+00
+ GammaPrt 209.06 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 210	3.61e-14	4.11e-14	1.02e-18	3.33e-14	7.62e+04	3.55e+04	1.00e+00	4.69e+08	3.61e-14	4.11e-14	3.47e-14	0.00e+00
+ GammaPrt 210.12 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 211	3.61e-14	3.94e-14	1.07e-18	3.44e-14	7.08e+04	3.38e+04	1.00e+00	4.68e+08	3.61e-14	3.94e-14	3.64e-14	0.00e+00
+ GammaPrt 211.07 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 212	3.61e-14	3.77e-14	1.12e-18	3.54e-14	6.59e+04	3.21e+04	1.00e+00	4.68e+08	3.61e-14	3.77e-14	3.82e-14	0.00e+00
+ GammaPrt 212.09 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 213	3.61e-14	3.61e-14	1.18e-18	3.65e-14	6.13e+04	3.06e+04	1.00e+00	4.67e+08	3.61e-14	3.61e-14	4.01e-14	0.00e+00
+ GammaPrt 213.07 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 214	3.61e-14	3.44e-14	1.24e-18	3.76e-14	5.70e+04	2.91e+04	1.00e+00	4.66e+08	3.61e-14	3.44e-14	4.20e-14	0.00e+00
+ GammaPrt 214.16 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 215	3.61e-14	3.28e-14	1.30e-18	3.88e-14	5.30e+04	2.77e+04	1.00e+00	4.66e+08	3.61e-14	3.28e-14	4.41e-14	0.00e+00
+ GammaPrt 215.07 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 216	3.61e-14	3.12e-14	1.37e-18	3.99e-14	4.93e+04	2.64e+04	1.00e+00	4.65e+08	3.61e-14	3.12e-14	4.63e-14	0.00e+00
+ GammaPrt 216.08 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 217	3.61e-14	2.96e-14	1.43e-18	4.11e-14	4.59e+04	2.51e+04	1.00e+00	4.64e+08	3.61e-14	2.96e-14	4.86e-14	0.00e+00
+ GammaPrt 217.08 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 218	3.61e-14	2.81e-14	1.51e-18	4.24e-14	4.27e+04	2.39e+04	1.00e+00	4.63e+08	3.61e-14	2.81e-14	5.09e-14	0.00e+00
+ GammaPrt 218.10 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 219	3.60e-14	2.66e-14	1.58e-18	4.36e-14	3.97e+04	2.28e+04	1.00e+00	4.62e+08	3.60e-14	2.66e-14	5.34e-14	0.00e+00
+ GammaPrt 219.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 220	3.60e-14	2.51e-14	1.66e-18	4.49e-14	3.70e+04	2.17e+04	1.00e+00	4.61e+08	3.60e-14	2.51e-14	5.60e-14	0.00e+00
+ GammaPrt 220.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 221	3.60e-14	2.37e-14	1.74e-18	4.62e-14	3.44e+04	2.07e+04	1.00e+00	4.60e+08	3.60e-14	2.37e-14	5.87e-14	0.00e+00
+ GammaPrt 221.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 222	3.60e-14	2.24e-14	1.83e-18	4.75e-14	3.20e+04	1.97e+04	1.00e+00	4.58e+08	3.60e-14	2.24e-14	6.14e-14	0.00e+00
+ GammaPrt 222.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 223	3.60e-14	2.11e-14	1.93e-18	4.89e-14	2.98e+04	1.87e+04	1.00e+00	4.57e+08	3.60e-14	2.11e-14	6.43e-14	0.00e+00
+ GammaPrt 223.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 224	3.60e-14	2.00e-14	2.02e-18	5.02e-14	2.78e+04	1.78e+04	1.00e+00	4.55e+08	3.60e-14	2.00e-14	6.70e-14	0.00e+00
+ GammaPrt 224.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 225	3.60e-14	1.87e-14	2.13e-18	5.16e-14	2.58e+04	1.69e+04	1.00e+00	4.53e+08	3.60e-14	1.87e-14	7.01e-14	0.00e+00
+ GammaPrt 225.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 226	3.60e-14	1.79e-14	2.21e-18	5.28e-14	2.44e+04	1.63e+04	1.00e+00	4.50e+08	3.60e-14	1.79e-14	7.26e-14	0.00e+00
+ GammaPrt 226.13 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 227	3.60e-14	1.67e-14	2.34e-18	5.43e-14	2.27e+04	1.54e+04	1.00e+00	4.48e+08	3.60e-14	1.67e-14	7.60e-14	0.00e+00
+ GammaPrt 227.13 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 228	3.60e-14	1.60e-14	2.43e-18	5.54e-14	2.15e+04	1.48e+04	1.00e+00	4.45e+08	3.60e-14	1.60e-14	7.82e-14	0.00e+00
+ GammaPrt 228.13 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 229	3.60e-14	1.50e-14	2.56e-18	5.69e-14	2.00e+04	1.41e+04	1.00e+00	4.42e+08	3.60e-14	1.50e-14	8.16e-14	0.00e+00
+ GammaPrt 229.13 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 230	3.60e-14	1.43e-14	2.66e-18	5.80e-14	1.90e+04	1.35e+04	1.00e+00	4.38e+08	3.60e-14	1.43e-14	8.41e-14	0.00e+00
+ GammaPrt 230.13 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 231	3.60e-14	1.33e-14	2.81e-18	5.96e-14	1.76e+04	1.28e+04	1.00e+00	4.35e+08	3.60e-14	1.33e-14	8.77e-14	0.00e+00
+ GammaPrt 231.10 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 232	3.60e-14	1.27e-14	2.93e-18	6.08e-14	1.67e+04	1.23e+04	1.00e+00	4.30e+08	3.60e-14	1.27e-14	9.01e-14	0.00e+00
+ GammaPrt 232.12 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 233	3.60e-14	1.19e-14	3.09e-18	6.24e-14	1.56e+04	1.16e+04	1.00e+00	4.27e+08	3.60e-14	1.19e-14	9.37e-14	0.00e+00
+ GammaPrt 233.12 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 234	3.60e-14	1.14e-14	3.22e-18	6.35e-14	1.48e+04	1.12e+04	1.00e+00	4.21e+08	3.60e-14	1.14e-14	9.61e-14	0.00e+00
+ GammaPrt 234.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 235	3.60e-14	1.06e-14	3.40e-18	6.51e-14	1.38e+04	1.06e+04	1.00e+00	4.17e+08	3.60e-14	1.06e-14	9.97e-14	0.00e+00
+ GammaPrt 235.12 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 236	3.60e-14	1.01e-14	3.54e-18	6.63e-14	1.31e+04	1.02e+04	1.00e+00	4.10e+08	3.60e-14	1.01e-14	1.02e-13	0.00e+00
+ GammaPrt 236.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 237	3.60e-14	9.48e-15	3.74e-18	6.79e-14	1.22e+04	9.62e+03	1.00e+00	4.05e+08	3.60e-14	9.48e-15	1.06e-13	0.00e+00
+ GammaPrt 237.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 238	3.60e-14	9.05e-15	3.90e-18	6.91e-14	1.16e+04	9.23e+03	1.00e+00	3.98e+08	3.60e-14	9.05e-15	1.08e-13	4.40e-23
+ GammaPrt 238.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 239	3.59e-14	8.46e-15	4.11e-18	7.07e-14	1.09e+04	8.74e+03	1.00e+00	3.91e+08	3.59e-14	8.46e-15	1.12e-13	7.58e-22
+ GammaPrt 239.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 240	3.59e-14	8.07e-15	4.29e-18	7.19e-14	1.03e+04	8.37e+03	1.00e+00	3.83e+08	3.59e-14	8.07e-15	1.14e-13	9.74e-22
+ GammaPrt 240.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 241	3.59e-14	7.53e-15	4.54e-18	7.36e-14	9.64e+03	7.91e+03	1.00e+00	3.76e+08	3.59e-14	7.53e-15	1.18e-13	1.54e-21
+ GammaPrt 241.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 242	3.59e-14	7.17e-15	4.74e-18	7.49e-14	9.15e+03	7.57e+03	1.00e+00	3.67e+08	3.59e-14	7.17e-15	1.21e-13	1.78e-21
+ GammaPrt 242.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 243	3.59e-14	6.88e-15	4.93e-18	7.59e-14	8.75e+03	7.29e+03	1.00e+00	3.59e+08	3.59e-14	6.88e-15	1.23e-13	2.07e-21
+ GammaPrt 243.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 244	3.59e-14	6.45e-15	5.19e-18	7.75e-14	8.23e+03	6.92e+03	1.00e+00	3.52e+08	3.59e-14	6.45e-15	1.26e-13	2.58e-21
+ GammaPrt 244.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 245	3.59e-14	6.17e-15	5.39e-18	7.86e-14	7.86e+03	6.66e+03	1.00e+00	3.42e+08	3.59e-14	6.17e-15	1.29e-13	2.84e-21
+ GammaPrt 245.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 246	3.59e-14	5.90e-15	5.61e-18	7.98e-14	7.52e+03	6.40e+03	1.00e+00	3.34e+08	3.59e-14	5.90e-15	1.31e-13	3.19e-21
+ GammaPrt 246.11 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 247	3.59e-14	5.54e-15	5.90e-18	8.13e-14	7.08e+03	6.09e+03	1.00e+00	3.27e+08	3.59e-14	5.54e-15	1.34e-13	3.95e-21
+ GammaPrt 247.09 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 248	3.59e-14	5.38e-15	6.11e-18	8.22e-14	6.81e+03	5.87e+03	1.00e+00	3.17e+08	3.59e-14	5.38e-15	1.36e-13	3.95e-21
+ GammaPrt 248.09 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 249	3.59e-14	5.02e-15	6.43e-18	8.38e-14	6.42e+03	5.58e+03	1.00e+00	3.09e+08	3.59e-14	5.02e-15	1.39e-13	4.76e-21
+ GammaPrt 249.09 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 250	3.59e-14	4.87e-15	6.66e-18	8.47e-14	6.17e+03	5.39e+03	1.00e+00	2.99e+08	3.59e-14	4.87e-15	1.41e-13	4.74e-21
+ GammaPrt 250.09 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 251	3.59e-14	4.56e-15	7.00e-18	8.63e-14	5.83e+03	5.12e+03	1.00e+00	2.92e+08	3.59e-14	4.56e-15	1.44e-13	5.69e-21
+ GammaPrt 251.09 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 252	3.59e-14	4.42e-15	7.27e-18	8.72e-14	5.60e+03	4.94e+03	1.00e+00	2.82e+08	3.59e-14	4.42e-15	1.46e-13	5.74e-21
+ GammaPrt 252.09 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 253	3.59e-14	4.14e-15	7.65e-18	8.89e-14	5.28e+03	4.69e+03	1.00e+00	2.74e+08	3.59e-14	4.14e-15	1.49e-13	6.75e-21
+ GammaPrt 253.09 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 254	3.59e-14	4.01e-15	7.94e-18	8.98e-14	5.07e+03	4.52e+03	1.00e+00	2.64e+08	3.59e-14	4.01e-15	1.51e-13	6.82e-21
+ GammaPrt 254.09 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 255	3.59e-14	3.75e-15	8.36e-18	9.15e-14	4.79e+03	4.29e+03	1.00e+00	2.56e+08	3.59e-14	3.75e-15	1.54e-13	7.92e-21
+ GammaPrt 255.09 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 256	3.59e-14	3.63e-15	8.69e-18	9.24e-14	4.59e+03	4.13e+03	1.00e+00	2.46e+08	3.59e-14	3.63e-15	1.56e-13	8.05e-21
+ GammaPrt 256.09 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 257	3.59e-14	3.38e-15	9.18e-18	9.41e-14	4.32e+03	3.91e+03	1.00e+00	2.38e+08	3.59e-14	3.38e-15	1.60e-13	9.27e-21
+ GammaPrt 257.09 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 258	3.59e-14	3.28e-15	9.55e-18	9.51e-14	4.14e+03	3.75e+03	1.00e+00	2.28e+08	3.59e-14	3.28e-15	1.61e-13	9.48e-21
+ GammaPrt 258.09 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 259	3.59e-14	3.05e-15	1.01e-17	9.69e-14	3.90e+03	3.55e+03	1.00e+00	2.20e+08	3.59e-14	3.05e-15	1.65e-13	1.08e-20
+ GammaPrt 259.09 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 260	3.58e-14	2.95e-15	1.05e-17	9.79e-14	3.73e+03	3.41e+03	1.00e+00	2.10e+08	3.58e-14	2.95e-15	1.67e-13	1.11e-20
+ GammaPrt 260.09 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 261	3.58e-14	2.75e-15	1.11e-17	9.97e-14	3.51e+03	3.22e+03	1.00e+00	2.03e+08	3.58e-14	2.75e-15	1.70e-13	1.26e-20
+ GammaPrt 261.09 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 262	3.58e-14	2.66e-15	1.16e-17	1.01e-13	3.36e+03	3.09e+03	1.00e+00	1.93e+08	3.58e-14	2.66e-15	1.72e-13	1.29e-20
+ GammaPrt 262.09 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 263	3.58e-14	2.55e-15	1.21e-17	1.02e-13	3.22e+03	2.96e+03	1.00e+00	1.86e+08	3.58e-14	2.55e-15	1.74e-13	1.38e-20
+ GammaPrt 263.09 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 264	3.58e-14	2.40e-15	1.27e-17	1.03e-13	3.04e+03	2.81e+03	1.00e+00	1.80e+08	3.58e-14	2.40e-15	1.77e-13	1.63e-20
+ GammaPrt 264.07 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 265	3.58e-14	2.31e-15	1.33e-17	1.04e-13	2.91e+03	2.70e+03	1.00e+00	1.71e+08	3.58e-14	2.31e-15	1.78e-13	1.59e-20
+ GammaPrt 265.07 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 266	3.58e-14	2.21e-15	1.38e-17	1.06e-13	2.80e+03	2.60e+03	1.00e+00	1.65e+08	3.58e-14	2.21e-15	1.80e-13	1.67e-20
+ GammaPrt 266.07 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 267	3.58e-14	2.11e-15	1.44e-17	1.07e-13	2.66e+03	2.48e+03	1.00e+00	1.60e+08	3.58e-14	2.11e-15	1.83e-13	2.27e-20
+ GammaPrt 267.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 268	3.58e-14	2.02e-15	1.50e-17	1.08e-13	2.55e+03	2.38e+03	1.00e+00	1.53e+08	3.58e-14	2.02e-15	1.85e-13	1.91e-20
+ GammaPrt 268.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 269	3.58e-14	1.94e-15	1.56e-17	1.09e-13	2.45e+03	2.29e+03	1.00e+00	1.47e+08	3.58e-14	1.94e-15	1.87e-13	1.88e-20
+ GammaPrt 269.02 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 270	3.58e-14	1.86e-15	1.64e-17	1.10e-13	2.34e+03	2.19e+03	1.00e+00	1.42e+08	3.58e-14	1.86e-15	1.89e-13	2.75e-20
+ GammaPrt 270.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 271	3.58e-14	1.78e-15	1.70e-17	1.12e-13	2.24e+03	2.10e+03	1.00e+00	1.35e+08	3.58e-14	1.78e-15	1.91e-13	2.47e-20
+ GammaPrt 271.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 272	3.58e-14	1.70e-15	1.77e-17	1.13e-13	2.15e+03	2.02e+03	1.00e+00	1.30e+08	3.58e-14	1.70e-15	1.93e-13	2.46e-20
+ GammaPrt 272.02 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 273	3.58e-14	1.63e-15	1.86e-17	1.14e-13	2.04e+03	1.92e+03	1.00e+00	1.25e+08	3.58e-14	1.63e-15	1.95e-13	3.32e-20
+ GammaPrt 273.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 274	3.58e-14	1.55e-15	1.95e-17	1.15e-13	1.95e+03	1.84e+03	1.00e+00	1.19e+08	3.58e-14	1.55e-15	1.97e-13	2.78e-20
+ GammaPrt 274.06 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 275	3.58e-14	1.48e-15	2.03e-17	1.16e-13	1.87e+03	1.76e+03	1.00e+00	1.14e+08	3.58e-14	1.48e-15	1.99e-13	2.88e-20
+ GammaPrt 275.02 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 276	3.58e-14	1.41e-15	2.13e-17	1.18e-13	1.77e+03	1.68e+03	1.00e+00	1.09e+08	3.58e-14	1.41e-15	2.01e-13	3.91e-20
+ GammaPrt 276.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 277	3.58e-14	1.34e-15	2.23e-17	1.19e-13	1.69e+03	1.60e+03	1.00e+00	1.03e+08	3.58e-14	1.34e-15	2.03e-13	3.36e-20
+ GammaPrt 277.06 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 278	3.58e-14	1.29e-15	2.33e-17	1.20e-13	1.62e+03	1.54e+03	1.00e+00	9.81e+07	3.58e-14	1.29e-15	2.05e-13	3.53e-20
+ GammaPrt 278.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 279	3.58e-14	1.22e-15	2.46e-17	1.22e-13	1.53e+03	1.46e+03	1.00e+00	9.35e+07	3.58e-14	1.22e-15	2.08e-13	4.69e-20
+ GammaPrt 279.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 280	3.58e-14	1.16e-15	2.58e-17	1.23e-13	1.46e+03	1.39e+03	1.00e+00	8.77e+07	3.58e-14	1.16e-15	2.10e-13	4.06e-20
+ GammaPrt 280.07 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 281	3.58e-14	1.10e-15	2.69e-17	1.24e-13	1.40e+03	1.33e+03	1.00e+00	8.32e+07	3.58e-14	1.10e-15	2.12e-13	4.29e-20
+ GammaPrt 281.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 282	3.58e-14	1.04e-15	2.85e-17	1.26e-13	1.32e+03	1.26e+03	1.00e+00	7.89e+07	3.58e-14	1.04e-15	2.14e-13	5.61e-20
+ GammaPrt 282.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 283	3.58e-14	9.85e-16	2.98e-17	1.27e-13	1.26e+03	1.20e+03	1.00e+00	7.36e+07	3.58e-14	9.85e-16	2.16e-13	4.93e-20
+ GammaPrt 283.07 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 284	3.58e-14	9.38e-16	3.12e-17	1.29e-13	1.20e+03	1.15e+03	1.00e+00	6.95e+07	3.58e-14	9.38e-16	2.18e-13	5.17e-20
+ GammaPrt 284.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 285	3.58e-14	8.84e-16	3.30e-17	1.30e-13	1.13e+03	1.08e+03	1.00e+00	6.57e+07	3.58e-14	8.84e-16	2.21e-13	6.66e-20
+ GammaPrt 285.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 286	3.58e-14	8.35e-16	3.46e-17	1.32e-13	1.08e+03	1.03e+03	1.00e+00	6.10e+07	3.58e-14	8.35e-16	2.23e-13	6.01e-20
+ GammaPrt 286.07 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 287	3.58e-14	7.92e-16	3.62e-17	1.33e-13	1.03e+03	9.87e+02	1.00e+00	5.74e+07	3.58e-14	7.92e-16	2.25e-13	6.37e-20
+ GammaPrt 287.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 288	3.58e-14	7.44e-16	3.84e-17	1.35e-13	9.72e+02	9.31e+02	1.00e+00	5.40e+07	3.58e-14	7.44e-16	2.27e-13	8.05e-20
+ GammaPrt 288.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 289	3.58e-14	6.99e-16	4.04e-17	1.36e-13	9.24e+02	8.86e+02	1.00e+00	4.98e+07	3.58e-14	6.99e-16	2.30e-13	7.34e-20
+ GammaPrt 289.07 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 290	3.58e-14	6.61e-16	4.23e-17	1.38e-13	8.81e+02	8.45e+02	1.00e+00	4.66e+07	3.58e-14	6.61e-16	2.32e-13	7.78e-20
+ GammaPrt 290.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 291	3.58e-14	6.18e-16	4.49e-17	1.40e-13	8.30e+02	7.96e+02	1.00e+00	4.37e+07	3.58e-14	6.18e-16	2.34e-13	9.70e-20
+ GammaPrt 291.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 292	3.58e-14	5.80e-16	4.71e-17	1.41e-13	7.90e+02	7.59e+02	1.00e+00	4.01e+07	3.58e-14	5.80e-16	2.36e-13	8.93e-20
+ GammaPrt 292.06 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 293	3.58e-14	5.48e-16	4.93e-17	1.42e-13	7.55e+02	7.26e+02	1.00e+00	3.75e+07	3.58e-14	5.48e-16	2.38e-13	9.23e-20
+ GammaPrt 293.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 294	3.58e-14	5.13e-16	5.22e-17	1.44e-13	7.13e+02	6.86e+02	1.00e+00	3.52e+07	3.58e-14	5.13e-16	2.40e-13	1.13e-19
+ GammaPrt 294.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 295	3.58e-14	4.82e-16	5.47e-17	1.46e-13	6.80e+02	6.54e+02	1.00e+00	3.22e+07	3.58e-14	4.82e-16	2.42e-13	1.10e-19
+ GammaPrt 295.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 296	3.58e-14	4.54e-16	5.74e-17	1.47e-13	6.49e+02	6.24e+02	1.00e+00	3.01e+07	3.58e-14	4.54e-16	2.44e-13	1.16e-19
+ GammaPrt 296.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 297	3.58e-14	4.26e-16	6.00e-17	1.49e-13	6.20e+02	5.97e+02	1.00e+00	2.80e+07	3.58e-14	4.26e-16	2.46e-13	1.15e-19
+ GammaPrt 297.02 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 298	3.58e-14	3.96e-16	6.35e-17	1.50e-13	5.86e+02	5.64e+02	1.00e+00	2.62e+07	3.58e-14	3.96e-16	2.48e-13	1.34e-19
+ GammaPrt 298.05 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 299	3.58e-14	3.76e-16	6.63e-17	1.52e-13	5.62e+02	5.40e+02	1.00e+00	2.40e+07	3.58e-14	3.76e-16	2.50e-13	1.37e-19
+ GammaPrt 299.02 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 300	3.58e-14	3.49e-16	7.02e-17	1.54e-13	5.31e+02	5.10e+02	1.00e+00	2.23e+07	3.58e-14	3.49e-16	2.52e-13	1.56e-19
+ GammaPrt 300.04 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.58e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 301	3.59e-14	3.35e-16	7.27e-17	1.55e-13	5.12e+02	4.93e+02	1.00e+00	2.03e+07	3.59e-14	3.35e-16	2.53e-13	1.48e-19
+ GammaPrt 301.04 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 302	3.59e-14	3.14e-16	7.61e-17	1.56e-13	4.90e+02	4.71e+02	1.00e+00	1.92e+07	3.59e-14	3.14e-16	2.55e-13	1.67e-19
+ GammaPrt 302.03 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 303	3.59e-14	2.98e-16	7.91e-17	1.57e-13	4.72e+02	4.54e+02	1.00e+00	1.78e+07	3.59e-14	2.98e-16	2.56e-13	1.58e-19
+ GammaPrt 303.02 from  1.00e+00 to  7.03e+06R rates > 1.79e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 304	3.59e-14	2.84e-16	8.19e-17	1.58e-13	4.56e+02	4.38e+02	1.00e+00	1.67e+07	3.59e-14	2.84e-16	2.58e-13	1.78e-19
+ GammaPrt 304.03 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 305	3.59e-14	2.65e-16	8.59e-17	1.60e-13	4.35e+02	4.18e+02	1.00e+00	1.57e+07	3.59e-14	2.65e-16	2.59e-13	1.94e-19
+ GammaPrt 305.06 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.59e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 306	3.60e-14	2.53e-16	8.91e-17	1.61e-13	4.20e+02	4.04e+02	1.00e+00	1.45e+07	3.60e-14	2.53e-16	2.60e-13	2.00e-19
+ GammaPrt 306.03 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 307	3.60e-14	2.36e-16	9.34e-17	1.63e-13	4.01e+02	3.85e+02	1.00e+00	1.35e+07	3.60e-14	2.36e-16	2.62e-13	2.27e-19
+ GammaPrt 307.03 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 308	3.60e-14	2.25e-16	9.70e-17	1.64e-13	3.86e+02	3.71e+02	1.00e+00	1.24e+07	3.60e-14	2.25e-16	2.63e-13	2.22e-19
+ GammaPrt 308.03 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 309	3.60e-14	2.09e-16	1.02e-16	1.66e-13	3.68e+02	3.54e+02	1.00e+00	1.16e+07	3.60e-14	2.09e-16	2.65e-13	2.52e-19
+ GammaPrt 309.03 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 310	3.61e-14	1.99e-16	1.06e-16	1.67e-13	3.55e+02	3.41e+02	1.00e+00	1.06e+07	3.61e-14	1.99e-16	2.66e-13	2.47e-19
+ GammaPrt 310.03 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 311	3.61e-14	1.85e-16	1.11e-16	1.69e-13	3.38e+02	3.25e+02	1.00e+00	9.81e+06	3.61e-14	1.85e-16	2.68e-13	2.80e-19
+ GammaPrt 311.03 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.61e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 312	3.62e-14	1.76e-16	1.16e-16	1.70e-13	3.26e+02	3.13e+02	1.00e+00	8.90e+06	3.62e-14	1.76e-16	2.69e-13	2.77e-19
+ GammaPrt 312.03 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 313	3.62e-14	1.61e-16	1.22e-16	1.72e-13	3.10e+02	2.98e+02	1.00e+00	8.24e+06	3.62e-14	1.61e-16	2.70e-13	3.13e-19
+ GammaPrt 313.03 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 314	3.63e-14	1.54e-16	1.27e-16	1.73e-13	2.98e+02	2.86e+02	1.00e+00	7.43e+06	3.63e-14	1.54e-16	2.71e-13	3.10e-19
+ GammaPrt 314.03 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 315	3.63e-14	1.41e-16	1.33e-16	1.75e-13	2.83e+02	2.72e+02	1.00e+00	6.84e+06	3.63e-14	1.41e-16	2.73e-13	3.50e-19
+ GammaPrt 315.03 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 316	3.63e-14	1.34e-16	1.39e-16	1.76e-13	2.73e+02	2.62e+02	1.00e+00	6.12e+06	3.63e-14	1.34e-16	2.73e-13	3.48e-19
+ GammaPrt 316.03 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 317	3.63e-14	1.24e-16	1.46e-16	1.78e-13	2.60e+02	2.49e+02	1.00e+00	5.61e+06	3.63e-14	1.24e-16	2.75e-13	4.09e-19
+ GammaPrt 317.02 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.63e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 318	3.64e-14	1.16e-16	1.53e-16	1.79e-13	2.49e+02	2.39e+02	1.00e+00	4.99e+06	3.64e-14	1.16e-16	2.76e-13	4.01e-19
+ GammaPrt 318.02 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 319	3.64e-14	1.07e-16	1.61e-16	1.81e-13	2.36e+02	2.26e+02	1.00e+00	4.54e+06	3.64e-14	1.07e-16	2.77e-13	4.46e-19
+ GammaPrt 319.03 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 320	3.65e-14	9.92e-17	1.68e-16	1.83e-13	2.26e+02	2.16e+02	1.00e+00	3.99e+06	3.65e-14	9.92e-17	2.78e-13	4.46e-19
+ GammaPrt 320.03 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 321	3.65e-14	9.36e-17	1.74e-16	1.84e-13	2.19e+02	2.10e+02	1.00e+00	3.60e+06	3.65e-14	9.36e-17	2.78e-13	4.45e-19
+ GammaPrt 321.03 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 322	3.65e-14	8.78e-17	1.82e-16	1.86e-13	2.10e+02	2.01e+02	1.00e+00	3.33e+06	3.65e-14	8.78e-17	2.79e-13	4.91e-19
+ GammaPrt 322.03 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 323	3.66e-14	8.28e-17	1.88e-16	1.87e-13	2.03e+02	1.95e+02	1.00e+00	3.00e+06	3.66e-14	8.28e-17	2.79e-13	5.04e-19
+ GammaPrt 323.03 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 324	3.66e-14	7.69e-17	1.96e-16	1.88e-13	1.95e+02	1.86e+02	1.00e+00	2.76e+06	3.66e-14	7.69e-17	2.80e-13	5.56e-19
+ GammaPrt 324.03 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 325	3.66e-14	7.28e-17	2.03e-16	1.90e-13	1.88e+02	1.81e+02	1.00e+00	2.48e+06	3.66e-14	7.28e-17	2.80e-13	5.59e-19
+ GammaPrt 325.03 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 326	3.66e-14	6.73e-17	2.12e-16	1.91e-13	1.80e+02	1.73e+02	1.00e+00	2.28e+06	3.66e-14	6.73e-17	2.81e-13	6.12e-19
+ GammaPrt 326.03 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 327	3.67e-14	6.36e-17	2.19e-16	1.93e-13	1.74e+02	1.67e+02	1.00e+00	2.04e+06	3.67e-14	6.36e-17	2.81e-13	6.16e-19
+ GammaPrt 327.03 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 328	3.67e-14	5.92e-17	2.29e-16	1.94e-13	1.67e+02	1.60e+02	1.00e+00	1.86e+06	3.67e-14	5.92e-17	2.82e-13	6.91e-19
+ GammaPrt 328.02 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 329	3.67e-14	5.58e-17	2.38e-16	1.96e-13	1.61e+02	1.55e+02	1.00e+00	1.66e+06	3.67e-14	5.58e-17	2.81e-13	6.87e-19
+ GammaPrt 329.02 from  1.00e+00 to  7.03e+06R rates > 1.84e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 330	3.67e-14	5.13e-17	2.49e-16	1.97e-13	1.54e+02	1.48e+02	1.00e+00	1.51e+06	3.67e-14	5.13e-17	2.82e-13	7.48e-19
+ GammaPrt 330.03 from  1.00e+00 to  7.03e+06R rates > 1.84e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 331	3.68e-14	4.77e-17	2.58e-16	1.99e-13	1.49e+02	1.43e+02	1.00e+00	1.34e+06	3.68e-14	4.77e-17	2.82e-13	7.50e-19
+ GammaPrt 331.02 from  1.00e+00 to  7.03e+06R rates > 1.84e-15 of total= 3.68e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 332	3.68e-14	4.39e-17	2.70e-16	2.01e-13	1.42e+02	1.36e+02	1.00e+00	1.22e+06	3.68e-14	4.39e-17	2.82e-13	8.39e-19
+ GammaPrt 332.02 from  1.00e+00 to  7.03e+06R rates > 1.84e-15 of total= 3.68e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 333	3.69e-14	4.11e-17	2.79e-16	2.02e-13	1.38e+02	1.32e+02	1.00e+00	1.08e+06	3.69e-14	4.11e-17	2.81e-13	8.22e-19
+ GammaPrt 333.03 from  1.00e+00 to  7.03e+06R rates > 1.84e-15 of total= 3.69e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 334	3.69e-14	3.92e-17	2.85e-16	2.03e-13	1.35e+02	1.30e+02	1.00e+00	9.92e+05	3.69e-14	3.92e-17	2.81e-13	8.20e-19
+ GammaPrt 334.03 from  1.00e+00 to  7.03e+06R rates > 1.85e-15 of total= 3.69e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 335	3.69e-14	3.74e-17	2.93e-16	2.04e-13	1.32e+02	1.26e+02	1.00e+00	9.38e+05	3.69e-14	3.74e-17	2.81e-13	8.72e-19
+ GammaPrt 335.03 from  1.00e+00 to  7.03e+06R rates > 1.85e-15 of total= 3.69e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 336	3.69e-14	3.52e-17	3.03e-16	2.05e-13	1.27e+02	1.22e+02	1.00e+00	8.73e+05	3.69e-14	3.52e-17	2.81e-13	9.66e-19
+ GammaPrt 336.02 from  1.00e+00 to  7.03e+06R rates > 1.84e-15 of total= 3.69e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 337	3.69e-14	3.31e-17	3.13e-16	2.07e-13	1.23e+02	1.18e+02	1.00e+00	7.94e+05	3.69e-14	3.31e-17	2.80e-13	9.94e-19
+ GammaPrt 337.03 from  1.00e+00 to  7.03e+06R rates > 1.84e-15 of total= 3.69e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 338	3.69e-14	3.13e-17	3.21e-16	2.08e-13	1.20e+02	1.15e+02	1.00e+00	7.24e+05	3.69e-14	3.13e-17	2.80e-13	9.89e-19
+ GammaPrt 338.04 from  1.00e+00 to  7.03e+06R rates > 1.85e-15 of total= 3.69e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 339	3.70e-14	2.98e-17	3.27e-16	2.09e-13	1.18e+02	1.13e+02	1.00e+00	6.81e+05	3.70e-14	2.98e-17	2.79e-13	9.93e-19
+ GammaPrt 339.03 from  1.00e+00 to  7.03e+06R rates > 1.85e-15 of total= 3.70e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+hion	 340	3.69e-14	2.85e-17	3.36e-16	2.10e-13	1.15e+02	1.10e+02	1.00e+00	6.47e+05	3.69e-14	2.85e-17	2.79e-13	1.05e-18
+ GammaPrt 340.03 from  1.00e+00 to  7.03e+06R rates > 1.85e-15 of total= 3.69e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 5.13e-02 0.07 0.93 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 341	3.69e-14	2.68e-17	3.46e-16	2.11e-13	1.11e+02	1.07e+02	1.00e+00	6.05e+05	3.69e-14	2.68e-17	2.79e-13	1.15e-18
+ GammaPrt 341.02 from  1.00e+00 to  7.03e+06R rates > 1.84e-15 of total= 3.69e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 5.30e-02 0.06 0.94 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 342	3.68e-14	2.47e-17	3.63e-16	2.13e-13	1.06e+02	1.01e+02	1.00e+00	5.55e+05	3.68e-14	2.47e-17	2.79e-13	1.16e-18
+ GammaPrt 342.07 from  1.00e+00 to  7.03e+06R rates > 1.84e-15 of total= 3.68e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 5.53e-02 0.06 0.94 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 343	3.69e-14	2.34e-17	3.70e-16	2.14e-13	1.04e+02	9.98e+01	1.00e+00	4.96e+05	3.69e-14	2.34e-17	2.77e-13	1.13e-18
+ GammaPrt 343.02 from  1.00e+00 to  7.03e+06R rates > 1.84e-15 of total= 3.69e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 5.84e-02 0.06 0.94 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 344	3.68e-14	2.21e-17	3.80e-16	2.15e-13	1.01e+02	9.69e+01	1.00e+00	4.69e+05	3.68e-14	2.21e-17	2.77e-13	1.21e-18
+ GammaPrt 344.03 from  1.00e+00 to  7.03e+06R rates > 1.84e-15 of total= 3.68e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 5.99e-02 0.05 0.94 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 345	3.67e-14	2.08e-17	3.93e-16	2.16e-13	9.73e+01	9.34e+01	1.00e+00	4.36e+05	3.67e-14	2.08e-17	2.76e-13	1.31e-18
+ GammaPrt 345.02 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 6.21e-02 0.05 0.95 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 346	3.65e-14	1.90e-17	4.12e-16	2.18e-13	9.23e+01	8.86e+01	1.00e+00	3.97e+05	3.65e-14	1.90e-17	2.76e-13	1.39e-18
+ GammaPrt 346.04 from  1.00e+00 to  7.03e+06R rates > 1.83e-15 of total= 3.65e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 6.48e-02 0.05 0.95 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 347	3.64e-14	1.74e-17	4.27e-16	2.20e-13	8.89e+01	8.53e+01	1.00e+00	3.52e+05	3.64e-14	1.74e-17	2.74e-13	1.45e-18
+ GammaPrt 347.03 from  1.00e+00 to  7.03e+06R rates > 1.82e-15 of total= 3.64e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 6.86e-02 0.05 0.95 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 348	3.62e-14	1.57e-17	4.49e-16	2.22e-13	8.39e+01	8.06e+01	1.00e+00	3.18e+05	3.62e-14	1.57e-17	2.73e-13	1.56e-18
+ GammaPrt 348.03 from  1.00e+00 to  7.03e+06R rates > 1.81e-15 of total= 3.62e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.18e-02 0.04 0.95 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 349	3.60e-14	1.41e-17	4.67e-16	2.24e-13	8.03e+01	7.71e+01	1.00e+00	2.79e+05	3.60e-14	1.41e-17	2.71e-13	1.61e-18
+ GammaPrt 349.02 from  1.00e+00 to  7.03e+06R rates > 1.80e-15 of total= 3.60e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.63e-02 0.04 0.96 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 350	3.56e-14	1.27e-17	4.91e-16	2.26e-13	7.54e+01	7.24e+01	1.00e+00	2.50e+05	3.56e-14	1.27e-17	2.70e-13	1.75e-18
+ GammaPrt 350.03 from  1.00e+00 to  7.03e+06R rates > 1.78e-15 of total= 3.56e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5885 1.00e+00 5.02e-02 0.13 0.00 0.82 0.05 0.00 0.00 He 2 He 2 6.31e-18 
+ 5981 1.38e+00 7.95e-02 0.04 0.96 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 351	3.53e-14	1.14e-17	5.10e-16	2.29e-13	7.20e+01	6.91e+01	1.00e+00	2.17e+05	3.53e-14	1.14e-17	2.68e-13	1.79e-18
+ GammaPrt 351.02 from  1.00e+00 to  7.03e+06R rates > 1.76e-15 of total= 3.53e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5885 1.00e+00 5.18e-02 0.12 0.00 0.83 0.05 0.00 0.00 He 2 He 2 6.31e-18 
+ 5981 1.38e+00 8.43e-02 0.04 0.96 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 352	3.47e-14	1.03e-17	5.37e-16	2.31e-13	6.72e+01	6.45e+01	1.00e+00	1.95e+05	3.47e-14	1.03e-17	2.66e-13	1.97e-18
+ GammaPrt 352.03 from  1.00e+00 to  7.03e+06R rates > 1.73e-15 of total= 3.47e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5885 1.00e+00 5.21e-02 0.11 0.00 0.83 0.06 0.00 0.00 He 2 He 2 6.31e-18 
+ 5981 1.38e+00 8.74e-02 0.03 0.96 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 353	3.42e-14	9.23e-18	5.58e-16	2.33e-13	6.38e+01	6.12e+01	1.00e+00	1.69e+05	3.42e-14	9.23e-18	2.64e-13	2.02e-18
+ GammaPrt 353.02 from  1.00e+00 to  7.03e+06R rates > 1.71e-15 of total= 3.42e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5885 1.00e+00 5.33e-02 0.10 0.00 0.84 0.06 0.00 0.00 He 2 He 2 6.31e-18 
+ 5981 1.38e+00 9.21e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 354	3.33e-14	8.28e-18	5.87e-16	2.35e-13	5.90e+01	5.67e+01	1.00e+00	1.52e+05	3.33e-14	8.28e-18	2.62e-13	2.22e-18
+ GammaPrt 354.03 from  1.00e+00 to  7.03e+06R rates > 1.67e-15 of total= 3.33e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5885 1.00e+00 5.32e-02 0.10 0.00 0.84 0.06 0.00 0.00 He 2 He 2 6.31e-18 
+ 5981 1.38e+00 9.47e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 355	3.25e-14	7.45e-18	6.10e-16	2.37e-13	5.55e+01	5.33e+01	1.00e+00	1.31e+05	3.25e-14	7.45e-18	2.60e-13	2.29e-18
+ GammaPrt 355.02 from  1.00e+00 to  7.03e+06R rates > 1.63e-15 of total= 3.25e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5885 1.00e+00 5.40e-02 0.09 0.00 0.85 0.06 0.00 0.00 He 2 He 2 6.31e-18 
+ 5981 1.38e+00 9.88e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 356	3.19e-14	6.96e-18	6.25e-16	2.38e-13	5.31e+01	5.10e+01	1.00e+00	1.17e+05	3.19e-14	6.96e-18	2.58e-13	2.39e-18
+ GammaPrt 356.04 from  1.00e+00 to  7.03e+06R rates > 1.59e-15 of total= 3.19e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5885 1.00e+00 5.45e-02 0.09 0.00 0.85 0.06 0.00 0.00 He 2 He 2 6.31e-18 
+ 5981 1.38e+00 1.02e-01 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 357	3.09e-14	6.40e-18	6.50e-16	2.40e-13	4.95e+01	4.75e+01	1.00e+00	1.08e+05	3.09e-14	6.40e-18	2.57e-13	2.54e-18
+ GammaPrt 357.03 from  1.00e+00 to  7.03e+06R rates > 1.55e-15 of total= 3.09e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5885 1.00e+00 5.38e-02 0.08 0.00 0.86 0.06 0.00 0.00 He 2 He 2 6.31e-18 
+ 5981 1.38e+00 1.03e-01 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 358	3.00e-14	5.95e-18	6.68e-16	2.42e-13	4.68e+01	4.50e+01	1.00e+00	9.67e+04	3.00e-14	5.95e-18	2.55e-13	2.64e-18
+ GammaPrt 358.03 from  1.00e+00 to  7.03e+06R rates > 1.50e-15 of total= 3.00e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5885 1.00e+00 5.38e-02 0.08 0.00 0.86 0.06 0.00 0.00 He 2 He 2 6.31e-18 
+ 5981 1.38e+00 1.05e-01 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 359	2.89e-14	5.51e-18	6.95e-16	2.43e-13	4.33e+01	4.16e+01	1.00e+00	8.88e+04	2.89e-14	5.51e-18	2.54e-13	2.82e-18
+ GammaPrt 359.07 from  1.00e+00 to  7.03e+06R rates > 1.44e-15 of total= 2.89e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5885 1.00e+00 5.27e-02 0.07 0.00 0.86 0.06 0.00 0.00 He 2 He 2 6.31e-18 
+ 5981 1.38e+00 1.05e-01 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 360	2.77e-14	5.15e-18	7.14e-16	2.44e-13	4.04e+01	3.88e+01	1.00e+00	7.93e+04	2.77e-14	5.15e-18	2.52e-13	2.91e-18
+ GammaPrt 360.02 from  1.00e+00 to  7.03e+06R rates > 1.39e-15 of total= 2.77e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5885 1.00e+00 5.22e-02 0.07 0.00 0.87 0.06 0.00 0.00 He 2 He 2 6.31e-18 
+ 5981 1.38e+00 1.06e-01 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 361	2.66e-14	4.83e-18	7.34e-16	2.46e-13	3.78e+01	3.63e+01	1.00e+00	7.25e+04	2.66e-14	4.83e-18	2.51e-13	3.06e-18
+ GammaPrt 361.03 from  1.00e+00 to  7.03e+06R rates > 1.33e-15 of total= 2.66e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5885 1.00e+00 5.14e-02 0.07 0.00 0.87 0.06 0.00 0.00 He 2 He 2 6.31e-18 
+ 5981 1.38e+00 1.07e-01 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 362	2.52e-14	4.54e-18	7.62e-16	2.47e-13	3.45e+01	3.31e+01	1.00e+00	6.65e+04	2.52e-14	4.54e-18	2.51e-13	3.28e-18
+ GammaPrt 362.02 from  1.00e+00 to  7.03e+06R rates > 1.26e-15 of total= 2.52e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.06e-01 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 363	2.37e-14	4.28e-18	7.84e-16	2.48e-13	3.15e+01	3.02e+01	1.00e+00	5.91e+04	2.37e-14	4.28e-18	2.49e-13	3.43e-18
+ GammaPrt 363.03 from  1.00e+00 to  7.03e+06R rates > 1.19e-15 of total= 2.37e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.05e-01 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 364	2.22e-14	4.08e-18	8.08e-16	2.49e-13	2.87e+01	2.75e+01	1.00e+00	5.35e+04	2.22e-14	4.08e-18	2.49e-13	3.58e-18
+ GammaPrt 364.02 from  1.00e+00 to  7.03e+06R rates > 1.11e-15 of total= 2.22e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.04e-01 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 365	2.05e-14	3.79e-18	8.39e-16	2.51e-13	2.54e+01	2.44e+01	1.00e+00	4.85e+04	2.05e-14	3.79e-18	2.48e-13	3.86e-18
+ GammaPrt 365.02 from  1.00e+00 to  7.03e+06R rates > 1.02e-15 of total= 2.05e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.02e-01 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 366	1.85e-14	3.67e-18	8.65e-16	2.52e-13	2.22e+01	2.14e+01	1.00e+00	4.23e+04	1.85e-14	3.67e-18	2.47e-13	4.11e-18
+ GammaPrt 366.03 from  1.00e+00 to  7.03e+06R rates > 9.25e-16 of total= 1.85e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.00e-01 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 367	1.67e-14	3.56e-18	8.90e-16	2.53e-13	1.95e+01	1.87e+01	1.00e+00	3.75e+04	1.67e-14	3.56e-18	2.47e-13	4.38e-18
+ GammaPrt 367.03 from  1.00e+00 to  7.03e+06R rates > 8.34e-16 of total= 1.67e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 9.78e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 368	1.49e-14	3.48e-18	9.14e-16	2.53e-13	1.69e+01	1.63e+01	1.00e+00	3.33e+04	1.49e-14	3.48e-18	2.46e-13	4.68e-18
+ GammaPrt 368.03 from  1.00e+00 to  7.03e+06R rates > 7.46e-16 of total= 1.49e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 9.52e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 369	1.32e-14	3.45e-18	9.37e-16	2.54e-13	1.46e+01	1.41e+01	1.00e+00	2.95e+04	1.32e-14	3.45e-18	2.46e-13	5.03e-18
+ GammaPrt 369.03 from  1.00e+00 to  7.03e+06R rates > 6.59e-16 of total= 1.32e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 9.25e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 370	1.21e-14	3.59e-18	9.37e-16	2.53e-13	1.34e+01	1.29e+01	1.00e+00	2.61e+04	1.21e-14	3.59e-18	2.45e-13	5.29e-18
+ GammaPrt 370.09 from  1.00e+00 to  7.03e+06R rates > 6.04e-16 of total= 1.21e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 9.22e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 371	1.16e-14	3.55e-18	9.42e-16	2.53e-13	1.28e+01	1.24e+01	1.00e+00	2.50e+04	1.16e-14	3.55e-18	2.45e-13	5.35e-18
+ GammaPrt 371.03 from  1.00e+00 to  7.03e+06R rates > 5.82e-16 of total= 1.16e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 9.16e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 372	1.13e-14	3.56e-18	9.47e-16	2.53e-13	1.24e+01	1.20e+01	1.00e+00	2.44e+04	1.13e-14	3.56e-18	2.45e-13	5.42e-18
+ GammaPrt 372.02 from  1.00e+00 to  7.03e+06R rates > 5.66e-16 of total= 1.13e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 9.10e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 373	1.09e-14	3.57e-18	9.51e-16	2.53e-13	1.19e+01	1.15e+01	1.00e+00	2.38e+04	1.09e-14	3.57e-18	2.45e-13	5.57e-18
+ GammaPrt 373.02 from  1.00e+00 to  7.03e+06R rates > 5.47e-16 of total= 1.09e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 9.03e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 374	1.05e-14	3.57e-18	9.57e-16	2.54e-13	1.14e+01	1.09e+01	1.00e+00	2.30e+04	1.05e-14	3.57e-18	2.45e-13	5.72e-18
+ GammaPrt 374.02 from  1.00e+00 to  7.03e+06R rates > 5.24e-16 of total= 1.05e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.94e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 375	1.00e-14	3.57e-18	9.62e-16	2.54e-13	1.08e+01	1.04e+01	1.00e+00	2.21e+04	1.00e-14	3.57e-18	2.45e-13	5.89e-18
+ GammaPrt 375.03 from  1.00e+00 to  7.03e+06R rates > 5.00e-16 of total= 1.00e-14 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.87e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 376	9.58e-15	3.57e-18	9.68e-16	2.54e-13	1.03e+01	9.90e+00	1.00e+00	2.13e+04	9.58e-15	3.57e-18	2.45e-13	6.01e-18
+ GammaPrt 376.02 from  1.00e+00 to  7.03e+06R rates > 4.79e-16 of total= 9.58e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.79e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 377	9.19e-15	3.57e-18	9.72e-16	2.54e-13	9.81e+00	9.45e+00	1.00e+00	2.06e+04	9.19e-15	3.57e-18	2.45e-13	6.15e-18
+ GammaPrt 377.02 from  1.00e+00 to  7.03e+06R rates > 4.60e-16 of total= 9.19e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.72e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 378	8.81e-15	3.59e-18	9.74e-16	2.54e-13	9.39e+00	9.05e+00	1.00e+00	1.99e+04	8.81e-15	3.59e-18	2.45e-13	6.35e-18
+ GammaPrt 378.10 from  1.00e+00 to  7.03e+06R rates > 4.41e-16 of total= 8.81e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.66e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 379	8.43e-15	3.55e-18	9.81e-16	2.54e-13	8.92e+00	8.60e+00	1.00e+00	1.93e+04	8.43e-15	3.55e-18	2.45e-13	6.48e-18
+ GammaPrt 379.02 from  1.00e+00 to  7.03e+06R rates > 4.22e-16 of total= 8.43e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.58e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 380	8.06e-15	3.60e-18	9.82e-16	2.54e-13	8.51e+00	8.21e+00	1.00e+00	1.86e+04	8.06e-15	3.60e-18	2.45e-13	6.69e-18
+ GammaPrt 380.06 from  1.00e+00 to  7.03e+06R rates > 4.03e-16 of total= 8.06e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.53e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 381	7.72e-15	3.54e-18	9.88e-16	2.54e-13	8.10e+00	7.81e+00	1.00e+00	1.79e+04	7.72e-15	3.54e-18	2.45e-13	6.81e-18
+ GammaPrt 381.01 from  1.00e+00 to  7.03e+06R rates > 3.86e-16 of total= 7.72e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.44e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 382	7.36e-15	3.59e-18	9.89e-16	2.54e-13	7.72e+00	7.44e+00	1.00e+00	1.73e+04	7.36e-15	3.59e-18	2.45e-13	7.05e-18
+ GammaPrt 382.07 from  1.00e+00 to  7.03e+06R rates > 3.68e-16 of total= 7.36e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.40e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 383	7.04e-15	3.54e-18	9.94e-16	2.54e-13	7.34e+00	7.08e+00	1.00e+00	1.67e+04	7.04e-15	3.54e-18	2.45e-13	7.19e-18
+ GammaPrt 383.01 from  1.00e+00 to  7.03e+06R rates > 3.52e-16 of total= 7.04e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.33e-02 0.03 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+hion	 384	6.72e-15	3.54e-18	9.97e-16	2.54e-13	6.99e+00	6.74e+00	1.00e+00	1.61e+04	6.72e-15	3.54e-18	2.45e-13	7.37e-18
+ GammaPrt 384.01 from  1.00e+00 to  7.03e+06R rates > 3.36e-16 of total= 6.72e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.27e-02 0.02 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.08e-02 0.05 0.00 0.00 0.00 0.95 0.00 He 1      2.26e-18 
+hion	 385	6.42e-15	3.55e-18	9.99e-16	2.54e-13	6.66e+00	6.43e+00	1.00e+00	1.56e+04	6.42e-15	3.55e-18	2.45e-13	7.57e-18
+ GammaPrt 385.01 from  1.00e+00 to  7.03e+06R rates > 3.21e-16 of total= 6.42e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.23e-02 0.02 0.97 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.22e-02 0.04 0.00 0.00 0.00 0.95 0.00 He 1      2.26e-18 
+hion	 386	6.12e-15	3.52e-18	1.00e-15	2.54e-13	6.33e+00	6.11e+00	1.00e+00	1.51e+04	6.12e-15	3.52e-18	2.45e-13	7.81e-18
+ GammaPrt 386.02 from  1.00e+00 to  7.03e+06R rates > 3.06e-16 of total= 6.12e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.18e-02 0.02 0.98 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.36e-02 0.04 0.00 0.00 0.00 0.96 0.00 He 1      2.26e-18 
+hion	 387	5.83e-15	3.55e-18	9.99e-16	2.54e-13	6.05e+00	5.83e+00	1.00e+00	1.45e+04	5.83e-15	3.55e-18	2.45e-13	8.09e-18
+ GammaPrt 387.21 from  1.00e+00 to  7.03e+06R rates > 2.92e-16 of total= 5.83e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.13e-02 0.02 0.98 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.49e-02 0.04 0.00 0.00 0.00 0.96 0.00 He 1      2.26e-18 
+hion	 388	5.54e-15	3.49e-18	1.00e-15	2.54e-13	5.73e+00	5.53e+00	1.00e+00	1.40e+04	5.54e-15	3.49e-18	2.46e-13	8.30e-18
+ GammaPrt 388.02 from  1.00e+00 to  7.03e+06R rates > 2.77e-16 of total= 5.54e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.08e-02 0.02 0.98 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.63e-02 0.04 0.00 0.00 0.00 0.96 0.00 He 1      2.26e-18 
+hion	 389	5.27e-15	3.49e-18	1.00e-15	2.54e-13	5.44e+00	5.25e+00	1.00e+00	1.35e+04	5.27e-15	3.49e-18	2.46e-13	8.55e-18
+ GammaPrt 389.02 from  1.00e+00 to  7.03e+06R rates > 2.63e-16 of total= 5.27e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.04e-02 0.02 0.98 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.75e-02 0.04 0.00 0.00 0.00 0.96 0.00 He 1      2.26e-18 
+hion	 390	5.02e-15	3.49e-18	1.00e-15	2.55e-13	5.18e+00	5.00e+00	1.00e+00	1.30e+04	5.02e-15	3.49e-18	2.46e-13	8.79e-18
+ GammaPrt 390.02 from  1.00e+00 to  7.03e+06R rates > 2.51e-16 of total= 5.02e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.01e-02 0.02 0.98 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.86e-02 0.03 0.00 0.00 0.00 0.96 0.00 He 1      2.26e-18 
+hion	 391	4.78e-15	3.46e-18	1.00e-15	2.55e-13	4.93e+00	4.75e+00	1.00e+00	1.26e+04	4.78e-15	3.46e-18	2.46e-13	9.05e-18
+ GammaPrt 391.02 from  1.00e+00 to  7.03e+06R rates > 2.39e-16 of total= 4.78e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.97e-02 0.02 0.98 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.98e-02 0.03 0.00 0.00 0.00 0.97 0.00 He 1      2.26e-18 
+hion	 392	4.54e-15	3.44e-18	1.00e-15	2.55e-13	4.68e+00	4.52e+00	1.00e+00	1.22e+04	4.54e-15	3.44e-18	2.46e-13	9.33e-18
+ GammaPrt 392.02 from  1.00e+00 to  7.03e+06R rates > 2.27e-16 of total= 4.54e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.94e-02 0.02 0.98 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.08e-02 0.03 0.00 0.00 0.00 0.97 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 5.01e-02 0.04 0.00 0.94 0.02 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 393	4.31e-15	3.42e-18	1.00e-15	2.55e-13	4.45e+00	4.29e+00	1.00e+00	1.17e+04	4.31e-15	3.42e-18	2.46e-13	9.63e-18
+ GammaPrt 393.02 from  1.00e+00 to  7.03e+06R rates > 2.15e-16 of total= 4.31e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.92e-02 0.02 0.98 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.18e-02 0.03 0.00 0.00 0.00 0.97 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 5.08e-02 0.04 0.00 0.95 0.02 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 394	4.09e-15	3.38e-18	1.00e-15	2.55e-13	4.22e+00	4.07e+00	1.00e+00	1.13e+04	4.09e-15	3.38e-18	2.46e-13	9.94e-18
+ GammaPrt 394.02 from  1.00e+00 to  7.03e+06R rates > 2.04e-16 of total= 4.09e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.89e-02 0.02 0.98 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.27e-02 0.03 0.00 0.00 0.00 0.97 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 5.16e-02 0.04 0.00 0.95 0.02 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 395	3.88e-15	3.34e-18	1.00e-15	2.55e-13	4.01e+00	3.87e+00	1.00e+00	1.09e+04	3.88e-15	3.34e-18	2.46e-13	1.03e-17
+ GammaPrt 395.02 from  1.00e+00 to  7.03e+06R rates > 1.94e-16 of total= 3.88e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.87e-02 0.01 0.98 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.35e-02 0.03 0.00 0.00 0.00 0.97 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 5.23e-02 0.04 0.00 0.95 0.02 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 396	3.67e-15	3.30e-18	1.00e-15	2.55e-13	3.81e+00	3.67e+00	1.00e+00	1.05e+04	3.67e-15	3.30e-18	2.46e-13	1.06e-17
+ GammaPrt 396.02 from  1.00e+00 to  7.03e+06R rates > 1.84e-16 of total= 3.67e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.86e-02 0.01 0.99 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.43e-02 0.02 0.00 0.00 0.00 0.97 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 5.31e-02 0.03 0.00 0.95 0.02 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 397	3.48e-15	3.26e-18	9.98e-16	2.55e-13	3.62e+00	3.49e+00	1.00e+00	1.01e+04	3.48e-15	3.26e-18	2.46e-13	1.09e-17
+ GammaPrt 397.02 from  1.00e+00 to  7.03e+06R rates > 1.74e-16 of total= 3.48e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.85e-02 0.01 0.99 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.49e-02 0.02 0.00 0.00 0.00 0.98 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 5.39e-02 0.03 0.00 0.95 0.01 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 398	3.29e-15	3.21e-18	9.95e-16	2.55e-13	3.43e+00	3.31e+00	1.00e+00	9.78e+03	3.29e-15	3.21e-18	2.46e-13	1.13e-17
+ GammaPrt 398.02 from  1.00e+00 to  7.03e+06R rates > 1.65e-16 of total= 3.29e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.85e-02 0.01 0.99 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.55e-02 0.02 0.00 0.00 0.00 0.98 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 5.47e-02 0.03 0.00 0.95 0.01 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 399	3.11e-15	3.17e-18	9.92e-16	2.56e-13	3.25e+00	3.14e+00	1.00e+00	9.42e+03	3.11e-15	3.17e-18	2.46e-13	1.17e-17
+ GammaPrt 399.02 from  1.00e+00 to  7.03e+06R rates > 1.56e-16 of total= 3.11e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.85e-02 0.01 0.99 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.60e-02 0.02 0.00 0.00 0.00 0.98 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 5.55e-02 0.03 0.00 0.96 0.01 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 400	2.94e-15	3.12e-18	9.88e-16	2.56e-13	3.09e+00	2.97e+00	1.00e+00	9.08e+03	2.94e-15	3.12e-18	2.46e-13	1.21e-17
+ GammaPrt 400.02 from  1.00e+00 to  7.03e+06R rates > 1.47e-16 of total= 2.94e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.86e-02 0.01 0.99 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.63e-02 0.02 0.00 0.00 0.00 0.98 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 5.63e-02 0.03 0.00 0.96 0.01 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 401	2.77e-15	3.07e-18	9.84e-16	2.56e-13	2.93e+00	2.82e+00	1.00e+00	8.74e+03	2.77e-15	3.07e-18	2.46e-13	1.25e-17
+ GammaPrt 401.02 from  1.00e+00 to  7.03e+06R rates > 1.39e-16 of total= 2.77e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.87e-02 0.01 0.99 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.66e-02 0.02 0.00 0.00 0.00 0.98 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 5.71e-02 0.03 0.00 0.96 0.01 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 402	2.61e-15	3.03e-18	9.80e-16	2.56e-13	2.77e+00	2.67e+00	1.00e+00	8.42e+03	2.61e-15	3.03e-18	2.46e-13	1.30e-17
+ GammaPrt 402.02 from  1.00e+00 to  7.03e+06R rates > 1.31e-16 of total= 2.61e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.89e-02 0.01 0.99 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.67e-02 0.01 0.00 0.00 0.00 0.98 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 5.80e-02 0.03 0.00 0.96 0.01 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 403	2.46e-15	2.97e-18	9.72e-16	2.56e-13	2.63e+00	2.53e+00	1.00e+00	8.10e+03	2.46e-15	2.97e-18	2.46e-13	1.35e-17
+ GammaPrt 403.03 from  1.00e+00 to  7.03e+06R rates > 1.23e-16 of total= 2.46e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.92e-02 0.01 0.99 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.68e-02 0.01 0.00 0.00 0.00 0.99 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 5.88e-02 0.02 0.00 0.96 0.01 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 404	2.31e-15	2.92e-18	9.66e-16	2.56e-13	2.49e+00	2.40e+00	1.00e+00	7.80e+03	2.31e-15	2.92e-18	2.46e-13	1.40e-17
+ GammaPrt 404.04 from  1.00e+00 to  7.03e+06R rates > 1.16e-16 of total= 2.31e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.95e-02 0.01 0.99 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.68e-02 0.01 0.00 0.00 0.00 0.99 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 5.97e-02 0.02 0.00 0.97 0.01 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 405	2.17e-15	2.84e-18	9.61e-16	2.57e-13	2.35e+00	2.26e+00	1.00e+00	7.48e+03	2.17e-15	2.84e-18	2.46e-13	1.45e-17
+ GammaPrt 405.03 from  1.00e+00 to  7.03e+06R rates > 1.08e-16 of total= 2.17e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.99e-02 0.00 0.99 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.66e-02 0.01 0.00 0.00 0.00 0.99 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 6.07e-02 0.02 0.00 0.97 0.01 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 406	2.04e-15	2.77e-18	9.54e-16	2.57e-13	2.22e+00	2.14e+00	1.00e+00	7.18e+03	2.04e-15	2.77e-18	2.47e-13	1.50e-17
+ GammaPrt 406.03 from  1.00e+00 to  7.03e+06R rates > 1.02e-16 of total= 2.04e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.05e-02 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.61e-02 0.01 0.00 0.00 0.00 0.99 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 6.16e-02 0.02 0.00 0.97 0.01 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 407	1.91e-15	2.70e-18	9.47e-16	2.57e-13	2.11e+00	2.02e+00	1.00e+00	6.91e+03	1.91e-15	2.70e-18	2.47e-13	1.56e-17
+ GammaPrt 407.03 from  1.00e+00 to  7.03e+06R rates > 9.57e-17 of total= 1.91e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.10e-02 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.58e-02 0.01 0.00 0.00 0.00 0.99 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 6.25e-02 0.02 0.00 0.97 0.01 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 408	1.80e-15	2.63e-18	9.40e-16	2.57e-13	2.00e+00	1.91e+00	1.00e+00	6.65e+03	1.80e-15	2.63e-18	2.47e-13	1.62e-17
+ GammaPrt 408.03 from  1.00e+00 to  7.03e+06R rates > 8.99e-17 of total= 1.80e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.16e-02 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.54e-02 0.01 0.00 0.00 0.00 0.99 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 6.35e-02 0.02 0.00 0.97 0.01 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 409	1.68e-15	2.56e-18	9.32e-16	2.57e-13	1.89e+00	1.81e+00	1.00e+00	6.39e+03	1.68e-15	2.56e-18	2.46e-13	1.68e-17
+ GammaPrt 409.03 from  1.00e+00 to  7.03e+06R rates > 8.41e-17 of total= 1.68e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.23e-02 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.49e-02 0.01 0.00 0.00 0.00 0.99 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 6.45e-02 0.02 0.00 0.98 0.01 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 410	1.57e-15	2.49e-18	9.22e-16	2.58e-13	1.78e+00	1.71e+00	1.00e+00	6.13e+03	1.57e-15	2.49e-18	2.46e-13	1.74e-17
+ GammaPrt 410.05 from  1.00e+00 to  7.03e+06R rates > 7.87e-17 of total= 1.57e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.31e-02 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.43e-02 0.01 0.00 0.00 0.00 0.99 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 6.56e-02 0.01 0.00 0.98 0.01 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 411	1.47e-15	2.40e-18	9.14e-16	2.58e-13	1.68e+00	1.61e+00	1.00e+00	5.88e+03	1.47e-15	2.40e-18	2.46e-13	1.81e-17
+ GammaPrt 411.03 from  1.00e+00 to  7.03e+06R rates > 7.35e-17 of total= 1.47e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.40e-02 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.37e-02 0.00 0.00 0.00 0.00 0.99 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 6.67e-02 0.01 0.00 0.98 0.01 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 412	1.37e-15	2.31e-18	9.05e-16	2.58e-13	1.59e+00	1.52e+00	1.00e+00	5.64e+03	1.37e-15	2.31e-18	2.46e-13	1.87e-17
+ GammaPrt 412.03 from  1.00e+00 to  7.03e+06R rates > 6.86e-17 of total= 1.37e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.51e-02 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.27e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 6.79e-02 0.01 0.00 0.98 0.01 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 413	1.28e-15	2.23e-18	8.95e-16	2.59e-13	1.50e+00	1.43e+00	1.00e+00	5.41e+03	1.28e-15	2.23e-18	2.46e-13	1.94e-17
+ GammaPrt 413.03 from  1.00e+00 to  7.03e+06R rates > 6.41e-17 of total= 1.28e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.61e-02 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.20e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 6.90e-02 0.01 0.00 0.98 0.01 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 414	1.20e-15	2.15e-18	8.85e-16	2.59e-13	1.42e+00	1.35e+00	1.00e+00	5.19e+03	1.20e-15	2.15e-18	2.46e-13	2.02e-17
+ GammaPrt 414.03 from  1.00e+00 to  7.03e+06R rates > 5.98e-17 of total= 1.20e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.73e-02 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.14e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 7.03e-02 0.01 0.00 0.99 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 415	1.11e-15	2.07e-18	8.75e-16	2.59e-13	1.34e+00	1.27e+00	1.00e+00	4.98e+03	1.11e-15	2.07e-18	2.46e-13	2.09e-17
+ GammaPrt 415.04 from  1.00e+00 to  7.03e+06R rates > 5.56e-17 of total= 1.11e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.85e-02 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 6.05e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 7.15e-02 0.01 0.00 0.99 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 416	1.03e-15	1.98e-18	8.63e-16	2.60e-13	1.27e+00	1.20e+00	1.00e+00	4.77e+03	1.03e-15	1.98e-18	2.46e-13	2.17e-17
+ GammaPrt 416.05 from  1.00e+00 to  7.03e+06R rates > 5.17e-17 of total= 1.03e-15 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.99e-02 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.96e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 7.29e-02 0.01 0.00 0.99 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 417	9.59e-16	1.89e-18	8.52e-16	2.60e-13	1.19e+00	1.13e+00	1.00e+00	4.56e+03	9.59e-16	1.89e-18	2.45e-13	2.26e-17
+ GammaPrt 417.06 from  1.00e+00 to  7.03e+06R rates > 4.80e-17 of total= 9.59e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 9.14e-02 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.87e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 7.43e-02 0.01 0.00 0.99 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 418	8.89e-16	1.79e-18	8.41e-16	2.61e-13	1.12e+00	1.06e+00	1.00e+00	4.36e+03	8.89e-16	1.79e-18	2.45e-13	2.34e-17
+ GammaPrt 418.04 from  1.00e+00 to  7.03e+06R rates > 4.44e-17 of total= 8.89e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 9.30e-02 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.76e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 7.58e-02 0.00 0.00 0.99 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 419	8.25e-16	1.73e-18	8.28e-16	2.61e-13	1.06e+00	9.97e-01	1.00e+00	4.17e+03	8.25e-16	1.73e-18	2.45e-13	2.43e-17
+ GammaPrt 419.07 from  1.00e+00 to  7.03e+06R rates > 4.13e-17 of total= 8.25e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 9.47e-02 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.67e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 7.73e-02 0.00 0.00 0.99 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 420	7.63e-16	1.60e-18	8.17e-16	2.62e-13	1.00e+00	9.34e-01	1.00e+00	3.99e+03	7.63e-16	1.60e-18	2.44e-13	2.52e-17
+ GammaPrt 420.04 from  1.00e+00 to  7.03e+06R rates > 3.82e-17 of total= 7.63e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 9.64e-02 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.62e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 7.90e-02 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 421	7.05e-16	1.55e-18	8.03e-16	2.62e-13	9.44e-01	8.78e-01	1.00e+00	3.81e+03	7.05e-16	1.55e-18	2.43e-13	2.61e-17
+ GammaPrt 421.06 from  1.00e+00 to  7.03e+06R rates > 3.53e-17 of total= 7.05e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 9.85e-02 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.48e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 8.07e-02 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 422	6.50e-16	1.44e-18	7.91e-16	2.63e-13	8.88e-01	8.22e-01	1.00e+00	3.64e+03	6.50e-16	1.44e-18	2.43e-13	2.71e-17
+ GammaPrt 422.06 from  1.00e+00 to  7.03e+06R rates > 3.25e-17 of total= 6.50e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.00e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.43e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 8.24e-02 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 423	6.02e-16	1.38e-18	7.77e-16	2.63e-13	8.40e-01	7.74e-01	1.00e+00	3.46e+03	6.02e-16	1.38e-18	2.42e-13	2.81e-17
+ GammaPrt 423.07 from  1.00e+00 to  7.03e+06R rates > 3.01e-17 of total= 6.02e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.03e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.24e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 8.42e-02 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 424	5.63e-16	1.29e-18	7.67e-16	2.63e-13	8.01e-01	7.34e-01	1.00e+00	3.32e+03	5.63e-16	1.29e-18	2.41e-13	2.89e-17
+ GammaPrt 424.05 from  1.00e+00 to  7.03e+06R rates > 2.81e-17 of total= 5.63e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.04e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.25e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 8.57e-02 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 425	5.27e-16	1.23e-18	7.57e-16	2.64e-13	7.64e-01	6.97e-01	1.00e+00	3.20e+03	5.27e-16	1.23e-18	2.41e-13	2.97e-17
+ GammaPrt 425.06 from  1.00e+00 to  7.03e+06R rates > 2.64e-17 of total= 5.27e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.06e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.33e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 8.72e-02 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 426	4.91e-16	1.14e-18	7.47e-16	2.65e-13	7.26e-01	6.58e-01	1.00e+00	3.08e+03	4.91e-16	1.14e-18	2.40e-13	3.06e-17
+ GammaPrt 426.05 from  1.00e+00 to  7.03e+06R rates > 2.46e-17 of total= 4.91e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.08e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.36e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 8.89e-02 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 427	4.57e-16	1.10e-18	7.34e-16	2.65e-13	6.91e-01	6.22e-01	1.00e+00	2.95e+03	4.57e-16	1.10e-18	2.38e-13	3.15e-17
+ GammaPrt 427.06 from  1.00e+00 to  7.03e+06R rates > 2.28e-17 of total= 4.57e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.10e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.29e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 9.07e-02 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 428	4.24e-16	1.02e-18	7.23e-16	2.66e-13	6.56e-01	5.87e-01	1.00e+00	2.83e+03	4.24e-16	1.02e-18	2.37e-13	3.24e-17
+ GammaPrt 428.07 from  1.00e+00 to  7.03e+06R rates > 2.12e-17 of total= 4.24e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.12e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.26e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 9.25e-02 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 429	3.94e-16	9.43e-19	7.13e-16	2.66e-13	6.23e-01	5.52e-01	1.00e+00	2.72e+03	3.94e-16	9.43e-19	2.36e-13	3.34e-17
+ GammaPrt 429.05 from  1.00e+00 to  7.03e+06R rates > 1.97e-17 of total= 3.94e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.15e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.18e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 9.45e-02 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 430	3.66e-16	8.85e-19	7.01e-16	2.67e-13	5.94e-01	5.22e-01	1.00e+00	2.61e+03	3.66e-16	8.84e-19	2.35e-13	3.43e-17
+ GammaPrt 430.05 from  1.00e+00 to  7.03e+06R rates > 1.83e-17 of total= 3.66e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.17e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.14e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6063 1.81e+00 9.63e-02 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 431	3.40e-16	8.30e-19	6.90e-16	2.68e-13	5.66e-01	4.92e-01	1.00e+00	2.50e+03	3.40e-16	8.30e-19	2.33e-13	3.52e-17
+ GammaPrt 431.11 from  1.00e+00 to  7.03e+06R rates > 1.70e-17 of total= 3.40e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.19e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.13e-02 0.00 0.00 0.00 0.00 1.00 0.01 He 1      2.26e-18 
+ 6063 1.81e+00 9.82e-02 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 432	3.14e-16	7.59e-19	6.80e-16	2.69e-13	5.37e-01	4.62e-01	1.00e+00	2.40e+03	3.14e-16	7.59e-19	2.31e-13	3.62e-17
+ GammaPrt 432.05 from  1.00e+00 to  7.03e+06R rates > 1.57e-17 of total= 3.14e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.22e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 5998 1.46e+00 5.07e-02 0.00 0.00 0.00 0.00 1.00 0.01 He 1      2.26e-18 
+ 6063 1.81e+00 1.00e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 433	2.90e-16	7.12e-19	6.68e-16	2.69e-13	5.11e-01	4.35e-01	1.00e+00	2.30e+03	2.90e-16	7.12e-19	2.29e-13	3.71e-17
+ GammaPrt 433.06 from  1.00e+00 to  7.03e+06R rates > 1.45e-17 of total= 2.90e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.25e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.03e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 434	2.68e-16	6.47e-19	6.58e-16	2.70e-13	4.86e-01	4.08e-01	1.00e+00	2.20e+03	2.68e-16	6.47e-19	2.27e-13	3.81e-17
+ GammaPrt 434.05 from  1.00e+00 to  7.03e+06R rates > 1.34e-17 of total= 2.68e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.27e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.05e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 435	2.48e-16	6.12e-19	6.46e-16	2.71e-13	4.64e-01	3.84e-01	1.00e+00	2.11e+03	2.48e-16	6.12e-19	2.24e-13	3.91e-17
+ GammaPrt 435.06 from  1.00e+00 to  7.03e+06R rates > 1.24e-17 of total= 2.48e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.30e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.07e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 436	2.28e-16	5.52e-19	6.35e-16	2.72e-13	4.41e-01	3.59e-01	1.00e+00	2.02e+03	2.28e-16	5.52e-19	2.21e-13	4.01e-17
+ GammaPrt 436.07 from  1.00e+00 to  7.03e+06R rates > 1.14e-17 of total= 2.28e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.33e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.09e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 437	2.09e-16	4.99e-19	6.25e-16	2.73e-13	4.19e-01	3.35e-01	1.00e+00	1.93e+03	2.09e-16	4.99e-19	2.18e-13	4.11e-17
+ GammaPrt 437.05 from  1.00e+00 to  7.03e+06R rates > 1.05e-17 of total= 2.09e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.36e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.12e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 438	1.92e-16	4.56e-19	6.14e-16	2.74e-13	3.99e-01	3.13e-01	1.00e+00	1.85e+03	1.92e-16	4.55e-19	2.15e-13	4.20e-17
+ GammaPrt 438.05 from  1.00e+00 to  7.03e+06R rates > 9.62e-18 of total= 1.92e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.39e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.14e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 439	1.77e-16	4.12e-19	6.05e-16	2.75e-13	3.81e-01	2.93e-01	1.00e+00	1.77e+03	1.77e-16	4.12e-19	2.11e-13	4.30e-17
+ GammaPrt 439.05 from  1.00e+00 to  7.03e+06R rates > 8.85e-18 of total= 1.77e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.41e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.17e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 440	1.62e-16	3.70e-19	5.95e-16	2.76e-13	3.62e-01	2.72e-01	1.00e+00	1.69e+03	1.62e-16	3.70e-19	2.07e-13	4.39e-17
+ GammaPrt 440.07 from  1.00e+00 to  7.03e+06R rates > 8.09e-18 of total= 1.62e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.44e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.20e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 441	1.47e-16	3.27e-19	5.86e-16	2.77e-13	3.45e-01	2.52e-01	1.00e+00	1.61e+03	1.47e-16	3.27e-19	2.02e-13	4.49e-17
+ GammaPrt 441.05 from  1.00e+00 to  7.03e+06R rates > 7.37e-18 of total= 1.47e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.47e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.23e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 442	1.35e-16	2.92e-19	5.76e-16	2.78e-13	3.29e-01	2.34e-01	1.00e+00	1.53e+03	1.35e-16	2.92e-19	1.98e-13	4.58e-17
+ GammaPrt 442.05 from  1.00e+00 to  7.03e+06R rates > 6.73e-18 of total= 1.35e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.50e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.26e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 443	1.23e-16	2.55e-19	5.68e-16	2.80e-13	3.14e-01	2.16e-01	1.00e+00	1.46e+03	1.23e-16	2.55e-19	1.93e-13	4.67e-17
+ GammaPrt 443.06 from  1.00e+00 to  7.03e+06R rates > 6.15e-18 of total= 1.23e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.52e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.29e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 444	1.12e-16	2.20e-19	5.61e-16	2.81e-13	2.99e-01	1.99e-01	1.00e+00	1.39e+03	1.12e-16	2.20e-19	1.88e-13	4.75e-17
+ GammaPrt 444.05 from  1.00e+00 to  7.03e+06R rates > 5.58e-18 of total= 1.12e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.55e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.32e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 445	1.01e-16	1.89e-19	5.53e-16	2.83e-13	2.85e-01	1.83e-01	1.00e+00	1.32e+03	1.01e-16	1.89e-19	1.82e-13	4.84e-17
+ GammaPrt 445.05 from  1.00e+00 to  7.03e+06R rates > 5.07e-18 of total= 1.01e-16 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.57e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.36e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 446	9.23e-17	1.59e-19	5.47e-16	2.85e-13	2.72e-01	1.69e-01	1.00e+00	1.25e+03	9.23e-17	1.59e-19	1.77e-13	4.91e-17
+ GammaPrt 446.05 from  1.00e+00 to  7.03e+06R rates > 4.61e-18 of total= 9.23e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.59e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.39e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 447	8.42e-17	1.33e-19	5.43e-16	2.87e-13	2.60e-01	1.55e-01	1.00e+00	1.19e+03	8.42e-17	1.33e-19	1.71e-13	4.97e-17
+ GammaPrt 447.05 from  1.00e+00 to  7.03e+06R rates > 4.21e-18 of total= 8.42e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.60e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.43e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 448	7.69e-17	1.08e-19	5.39e-16	2.90e-13	2.49e-01	1.43e-01	1.00e+00	1.13e+03	7.69e-17	1.08e-19	1.66e-13	5.03e-17
+ GammaPrt 448.05 from  1.00e+00 to  7.03e+06R rates > 3.84e-18 of total= 7.69e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.61e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.46e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 449	7.02e-17	8.73e-20	5.35e-16	2.92e-13	2.38e-01	1.31e-01	1.00e+00	1.07e+03	7.02e-17	8.72e-20	1.61e-13	5.08e-17
+ GammaPrt 449.06 from  1.00e+00 to  7.03e+06R rates > 3.51e-18 of total= 7.02e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.61e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.50e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 450	6.45e-17	6.87e-20	5.34e-16	2.95e-13	2.28e-01	1.21e-01	1.00e+00	1.01e+03	6.45e-17	6.86e-20	1.56e-13	5.12e-17
+ GammaPrt 450.07 from  1.00e+00 to  7.03e+06R rates > 3.22e-18 of total= 6.45e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.60e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.54e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 451	5.93e-17	5.24e-20	5.33e-16	2.98e-13	2.19e-01	1.11e-01	1.00e+00	9.56e+02	5.93e-17	5.24e-20	1.52e-13	5.15e-17
+ GammaPrt 451.07 from  1.00e+00 to  7.03e+06R rates > 2.97e-18 of total= 5.93e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.59e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.57e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 452	5.47e-17	3.91e-20	5.34e-16	3.02e-13	2.10e-01	1.03e-01	1.00e+00	9.05e+02	5.47e-17	3.90e-20	1.48e-13	5.17e-17
+ GammaPrt 452.07 from  1.00e+00 to  7.03e+06R rates > 2.74e-18 of total= 5.47e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.58e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.61e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 453	5.08e-17	2.86e-20	5.35e-16	3.05e-13	2.02e-01	9.49e-02	1.00e+00	8.57e+02	5.08e-17	2.86e-20	1.44e-13	5.18e-17
+ GammaPrt 453.08 from  1.00e+00 to  7.03e+06R rates > 2.54e-18 of total= 5.08e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.56e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.64e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 454	4.74e-17	1.99e-20	5.38e-16	3.10e-13	1.93e-01	8.80e-02	1.00e+00	8.14e+02	4.74e-17	1.99e-20	1.41e-13	5.17e-17
+ GammaPrt 454.10 from  1.00e+00 to  7.03e+06R rates > 2.37e-18 of total= 4.74e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.53e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.67e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 455	4.44e-17	1.39e-20	5.41e-16	3.14e-13	1.86e-01	8.21e-02	1.00e+00	7.74e+02	4.44e-17	1.39e-20	1.38e-13	5.17e-17
+ GammaPrt 455.10 from  1.00e+00 to  7.03e+06R rates > 2.22e-18 of total= 4.44e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.50e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.70e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 456	4.19e-17	9.49e-21	5.46e-16	3.19e-13	1.80e-01	7.68e-02	1.00e+00	7.40e+02	4.19e-17	9.49e-21	1.36e-13	5.16e-17
+ GammaPrt 456.10 from  1.00e+00 to  7.03e+06R rates > 2.09e-18 of total= 4.19e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.47e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.73e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 457	3.95e-17	6.11e-21	5.50e-16	3.24e-13	1.73e-01	7.18e-02	1.00e+00	7.09e+02	3.95e-17	6.11e-21	1.34e-13	5.15e-17
+ GammaPrt 457.12 from  1.00e+00 to  7.03e+06R rates > 1.97e-18 of total= 3.95e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.44e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.75e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 458	3.73e-17	3.90e-21	5.55e-16	3.29e-13	1.67e-01	6.73e-02	1.00e+00	6.80e+02	3.73e-17	3.90e-21	1.32e-13	5.14e-17
+ GammaPrt 458.11 from  1.00e+00 to  7.03e+06R rates > 1.87e-18 of total= 3.73e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.41e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.78e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 459	3.54e-17	2.48e-21	5.60e-16	3.35e-13	1.62e-01	6.33e-02	1.00e+00	6.54e+02	3.54e-17	2.47e-21	1.31e-13	5.12e-17
+ GammaPrt 459.10 from  1.00e+00 to  7.03e+06R rates > 1.77e-18 of total= 3.54e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.38e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.80e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 460	3.37e-17	1.45e-21	5.66e-16	3.41e-13	1.56e-01	5.95e-02	1.00e+00	6.31e+02	3.37e-17	1.45e-21	1.30e-13	5.10e-17
+ GammaPrt 460.10 from  1.00e+00 to  7.03e+06R rates > 1.68e-18 of total= 3.37e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.35e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.82e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 461	3.20e-17	8.40e-22	5.72e-16	3.48e-13	1.51e-01	5.60e-02	1.00e+00	6.09e+02	3.20e-17	8.39e-22	1.29e-13	5.08e-17
+ GammaPrt 461.10 from  1.00e+00 to  7.03e+06R rates > 1.60e-18 of total= 3.20e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.33e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6063 1.81e+00 1.84e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 462	3.06e-17	4.73e-22	5.79e-16	3.54e-13	1.46e-01	5.29e-02	1.00e+00	5.89e+02	3.06e-17	4.73e-22	1.28e-13	5.05e-17
+ GammaPrt 462.10 from  1.00e+00 to  7.03e+06R rates > 1.53e-18 of total= 3.06e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.30e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6018 1.56e+00 5.02e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.86e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 463	2.93e-17	2.58e-22	5.86e-16	3.62e-13	1.42e-01	5.00e-02	1.00e+00	5.72e+02	2.93e-17	2.57e-22	1.27e-13	5.03e-17
+ GammaPrt 463.10 from  1.00e+00 to  7.03e+06R rates > 1.46e-18 of total= 2.93e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.27e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6018 1.56e+00 5.15e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.88e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 464	2.80e-17	1.35e-22	5.93e-16	3.69e-13	1.37e-01	4.72e-02	1.00e+00	5.56e+02	2.80e-17	1.35e-22	1.27e-13	5.01e-17
+ GammaPrt 464.10 from  1.00e+00 to  7.03e+06R rates > 1.40e-18 of total= 2.80e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.24e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6018 1.56e+00 5.28e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.89e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 465	2.69e-17	6.84e-23	6.01e-16	3.77e-13	1.33e-01	4.47e-02	1.00e+00	5.41e+02	2.69e-17	6.84e-23	1.27e-13	4.98e-17
+ GammaPrt 465.10 from  1.00e+00 to  7.03e+06R rates > 1.34e-18 of total= 2.69e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.22e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6018 1.56e+00 5.41e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.91e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 466	2.59e-17	3.35e-23	6.09e-16	3.85e-13	1.29e-01	4.24e-02	1.00e+00	5.28e+02	2.59e-17	3.35e-23	1.27e-13	4.96e-17
+ GammaPrt 466.10 from  1.00e+00 to  7.03e+06R rates > 1.29e-18 of total= 2.59e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.19e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6018 1.56e+00 5.54e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.92e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 467	2.49e-17	1.59e-23	6.18e-16	3.94e-13	1.25e-01	4.03e-02	1.00e+00	5.16e+02	2.49e-17	1.59e-23	1.27e-13	4.94e-17
+ GammaPrt 467.10 from  1.00e+00 to  7.03e+06R rates > 1.24e-18 of total= 2.49e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.17e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6018 1.56e+00 5.67e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.94e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 468	2.40e-17	7.20e-24	6.26e-16	4.03e-13	1.22e-01	3.83e-02	1.00e+00	5.05e+02	2.40e-17	7.23e-24	1.27e-13	4.91e-17
+ GammaPrt 468.10 from  1.00e+00 to  7.03e+06R rates > 1.20e-18 of total= 2.40e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.14e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6018 1.56e+00 5.80e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.95e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 469	2.31e-17	3.10e-24	6.35e-16	4.12e-13	1.18e-01	3.63e-02	9.99e-01	4.95e+02	2.31e-17	3.13e-24	1.27e-13	4.89e-17
+ GammaPrt 469.10 from  1.00e+00 to  7.03e+06R rates > 1.15e-18 of total= 2.31e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.12e-01 0.00 1.00 0.00 0.00 0.00 0.00 S  4      2.64e-18 
+ 6018 1.56e+00 5.93e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.96e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 470	2.23e-17	1.24e-24	6.46e-16	4.22e-13	1.14e-01	3.45e-02	9.99e-01	4.86e+02	2.23e-17	1.27e-24	1.27e-13	4.86e-17
+ GammaPrt 470.11 from  1.00e+00 to  7.03e+06R rates > 1.11e-18 of total= 2.23e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.09e-01 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 6.06e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.97e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 471	2.15e-17	4.95e-25	6.55e-16	4.32e-13	1.11e-01	3.28e-02	9.99e-01	4.78e+02	2.15e-17	5.29e-25	1.28e-13	4.84e-17
+ GammaPrt 471.11 from  1.00e+00 to  7.03e+06R rates > 1.08e-18 of total= 2.15e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.07e-01 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 6.19e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.98e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 472	2.08e-17	1.89e-25	6.65e-16	4.43e-13	1.08e-01	3.13e-02	9.99e-01	4.71e+02	2.08e-17	2.24e-25	1.29e-13	4.81e-17
+ GammaPrt 472.11 from  1.00e+00 to  7.03e+06R rates > 1.04e-18 of total= 2.08e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.05e-01 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 6.30e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.99e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 473	2.02e-17	6.83e-26	6.76e-16	4.54e-13	1.05e-01	2.99e-02	9.99e-01	4.65e+02	2.02e-17	1.03e-25	1.29e-13	4.79e-17
+ GammaPrt 473.10 from  1.00e+00 to  7.03e+06R rates > 1.01e-18 of total= 2.02e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.03e-01 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 6.43e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 2.00e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 474	1.96e-17	2.39e-26	6.86e-16	4.65e-13	1.02e-01	2.86e-02	9.99e-01	4.59e+02	1.96e-17	5.89e-26	1.30e-13	4.77e-17
+ GammaPrt 474.10 from  1.00e+00 to  7.03e+06R rates > 9.82e-19 of total= 1.96e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 1.01e-01 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 6.54e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 2.00e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 475	1.91e-17	8.32e-27	6.96e-16	4.77e-13	9.95e-02	2.75e-02	9.99e-01	4.55e+02	1.91e-17	4.33e-26	1.32e-13	4.75e-17
+ GammaPrt 475.11 from  1.00e+00 to  7.03e+06R rates > 9.57e-19 of total= 1.91e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 9.89e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 6.65e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 2.01e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 476	1.87e-17	2.62e-27	7.07e-16	4.89e-13	9.71e-02	2.64e-02	9.99e-01	4.51e+02	1.87e-17	3.77e-26	1.33e-13	4.73e-17
+ GammaPrt 476.11 from  1.00e+00 to  7.03e+06R rates > 9.34e-19 of total= 1.87e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 9.71e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 6.75e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 2.01e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 477	1.83e-17	9.24e-28	7.17e-16	5.00e-13	9.49e-02	2.55e-02	9.99e-01	4.49e+02	1.83e-17	3.61e-26	1.34e-13	4.71e-17
+ GammaPrt 477.10 from  1.00e+00 to  7.03e+06R rates > 9.13e-19 of total= 1.83e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 9.54e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 6.84e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 2.01e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 478	1.80e-17	3.74e-28	7.25e-16	5.09e-13	9.33e-02	2.49e-02	9.99e-01	4.47e+02	1.80e-17	3.56e-26	1.36e-13	4.70e-17
+ GammaPrt 478.11 from  1.00e+00 to  7.03e+06R rates > 9.01e-19 of total= 1.80e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 9.39e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 6.90e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 2.01e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 479	1.83e-17	2.72e-28	7.30e-16	5.13e-13	9.29e-02	2.51e-02	9.99e-01	4.46e+02	1.83e-17	3.58e-26	1.38e-13	4.69e-17
+ GammaPrt 479.03 from  1.00e+00 to  7.03e+06R rates > 9.16e-19 of total= 1.83e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 9.08e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 6.76e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.96e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 480	1.88e-17	1.70e-28	7.36e-16	5.17e-13	9.26e-02	2.55e-02	9.99e-01	4.46e+02	1.88e-17	3.61e-26	1.43e-13	4.68e-17
+ GammaPrt 480.11 from  1.00e+00 to  7.03e+06R rates > 9.38e-19 of total= 1.88e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.72e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 6.53e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 6.59e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.90e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 481	1.89e-17	1.10e-28	7.41e-16	5.22e-13	9.20e-02	2.55e-02	9.99e-01	4.45e+02	1.89e-17	3.63e-26	1.45e-13	4.67e-17
+ GammaPrt 481.05 from  1.00e+00 to  7.03e+06R rates > 9.44e-19 of total= 1.89e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.54e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 7.75e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 6.53e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.88e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 482	1.87e-17	6.12e-29	7.45e-16	5.28e-13	9.12e-02	2.51e-02	9.99e-01	4.45e+02	1.87e-17	3.62e-26	1.45e-13	4.67e-17
+ GammaPrt 482.07 from  1.00e+00 to  7.03e+06R rates > 9.35e-19 of total= 1.87e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.49e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 7.74e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 6.58e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.88e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 483	1.84e-17	3.89e-29	7.49e-16	5.33e-13	9.01e-02	2.46e-02	9.99e-01	4.44e+02	1.84e-17	3.62e-26	1.45e-13	4.66e-17
+ GammaPrt 483.06 from  1.00e+00 to  7.03e+06R rates > 9.20e-19 of total= 1.84e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.48e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 7.19e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 6.66e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.89e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 484	1.82e-17	2.35e-29	7.54e-16	5.38e-13	8.92e-02	2.41e-02	9.99e-01	4.44e+02	1.82e-17	3.62e-26	1.45e-13	4.65e-17
+ GammaPrt 484.08 from  1.00e+00 to  7.03e+06R rates > 9.09e-19 of total= 1.82e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.46e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 6.87e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 6.72e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.90e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 485	1.82e-17	1.45e-29	7.59e-16	5.43e-13	8.86e-02	2.40e-02	9.99e-01	4.44e+02	1.82e-17	3.63e-26	1.47e-13	4.65e-17
+ GammaPrt 485.06 from  1.00e+00 to  7.03e+06R rates > 9.09e-19 of total= 1.82e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.34e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 7.49e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 6.71e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.89e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 486	1.81e-17	8.68e-30	7.63e-16	5.48e-13	8.78e-02	2.38e-02	9.99e-01	4.44e+02	1.81e-17	3.64e-26	1.48e-13	4.64e-17
+ GammaPrt 486.06 from  1.00e+00 to  7.03e+06R rates > 9.07e-19 of total= 1.81e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.24e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 7.98e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 6.71e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.88e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 487	1.79e-17	5.03e-30	7.68e-16	5.53e-13	8.70e-02	2.34e-02	9.99e-01	4.44e+02	1.79e-17	3.64e-26	1.49e-13	4.64e-17
+ GammaPrt 487.06 from  1.00e+00 to  7.03e+06R rates > 8.97e-19 of total= 1.79e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.20e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 7.80e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 6.76e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.88e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 488	1.77e-17	2.88e-30	7.73e-16	5.59e-13	8.61e-02	2.29e-02	9.99e-01	4.44e+02	1.77e-17	3.64e-26	1.49e-13	4.63e-17
+ GammaPrt 488.06 from  1.00e+00 to  7.03e+06R rates > 8.86e-19 of total= 1.77e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.18e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 7.48e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 6.82e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.89e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 489	1.76e-17	1.63e-30	7.77e-16	5.65e-13	8.53e-02	2.26e-02	9.99e-01	4.44e+02	1.76e-17	3.64e-26	1.50e-13	4.62e-17
+ GammaPrt 489.06 from  1.00e+00 to  7.03e+06R rates > 8.78e-19 of total= 1.76e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.13e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 7.42e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 6.87e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.89e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 490	1.74e-17	8.91e-31	7.83e-16	5.71e-13	8.45e-02	2.22e-02	9.99e-01	4.45e+02	1.74e-17	3.65e-26	1.50e-13	4.62e-17
+ GammaPrt 490.06 from  1.00e+00 to  7.03e+06R rates > 8.70e-19 of total= 1.74e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.07e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 7.40e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 6.91e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.90e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 491	1.72e-17	4.22e-31	7.89e-16	5.78e-13	8.34e-02	2.18e-02	9.99e-01	4.45e+02	1.72e-17	3.65e-26	1.51e-13	4.61e-17
+ GammaPrt 491.10 from  1.00e+00 to  7.03e+06R rates > 8.58e-19 of total= 1.72e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.05e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 7.02e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 6.99e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.91e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 492	1.69e-17	2.38e-31	7.93e-16	5.84e-13	8.26e-02	2.14e-02	9.99e-01	4.46e+02	1.69e-17	3.65e-26	1.51e-13	4.61e-17
+ GammaPrt 492.05 from  1.00e+00 to  7.03e+06R rates > 8.47e-19 of total= 1.69e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 8.03e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 6.66e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 7.05e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.92e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 493	1.68e-17	1.22e-31	7.99e-16	5.90e-13	8.18e-02	2.11e-02	9.99e-01	4.47e+02	1.68e-17	3.66e-26	1.52e-13	4.60e-17
+ GammaPrt 493.07 from  1.00e+00 to  7.03e+06R rates > 8.41e-19 of total= 1.68e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.95e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 6.83e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 7.08e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.91e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 494	1.66e-17	5.27e-32	8.06e-16	5.99e-13	8.08e-02	2.06e-02	9.99e-01	4.48e+02	1.66e-17	3.66e-26	1.53e-13	4.60e-17
+ GammaPrt 494.10 from  1.00e+00 to  7.03e+06R rates > 8.31e-19 of total= 1.66e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.91e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 6.62e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 7.15e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.92e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 495	1.64e-17	2.82e-32	8.10e-16	6.05e-13	8.00e-02	2.03e-02	9.99e-01	4.49e+02	1.64e-17	3.66e-26	1.53e-13	4.59e-17
+ GammaPrt 495.05 from  1.00e+00 to  7.03e+06R rates > 8.22e-19 of total= 1.64e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.87e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 6.46e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 7.21e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.92e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 496	1.63e-17	1.22e-32	8.18e-16	6.13e-13	7.91e-02	2.00e-02	9.99e-01	4.50e+02	1.63e-17	3.68e-26	1.55e-13	4.58e-17
+ GammaPrt 496.09 from  1.00e+00 to  7.03e+06R rates > 8.17e-19 of total= 1.63e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.78e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 6.68e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 7.24e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.92e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 497	1.61e-17	6.05e-33	8.22e-16	6.20e-13	7.83e-02	1.96e-02	9.99e-01	4.52e+02	1.61e-17	3.67e-26	1.55e-13	4.58e-17
+ GammaPrt 497.06 from  1.00e+00 to  7.03e+06R rates > 8.07e-19 of total= 1.61e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.75e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 6.40e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 7.30e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.93e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 498	1.60e-17	2.29e-33	8.30e-16	6.29e-13	7.73e-02	1.92e-02	9.99e-01	4.54e+02	1.60e-17	3.69e-26	1.57e-13	4.57e-17
+ GammaPrt 498.10 from  1.00e+00 to  7.03e+06R rates > 7.99e-19 of total= 1.60e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.68e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 6.45e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 7.35e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.93e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 499	1.58e-17	1.09e-33	8.35e-16	6.36e-13	7.65e-02	1.89e-02	9.99e-01	4.56e+02	1.58e-17	3.68e-26	1.57e-13	4.56e-17
+ GammaPrt 499.06 from  1.00e+00 to  7.03e+06R rates > 7.88e-19 of total= 1.58e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.66e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 6.04e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 7.43e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.94e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 500	1.56e-17	3.82e-34	8.44e-16	6.46e-13	7.54e-02	1.85e-02	9.99e-01	4.58e+02	1.56e-17	3.69e-26	1.58e-13	4.56e-17
+ GammaPrt 500.10 from  1.00e+00 to  7.03e+06R rates > 7.80e-19 of total= 1.56e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.59e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 6.03e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 7.49e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.94e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 501	1.54e-17	1.68e-34	8.50e-16	6.54e-13	7.46e-02	1.81e-02	9.99e-01	4.61e+02	1.54e-17	3.70e-26	1.59e-13	4.55e-17
+ GammaPrt 501.08 from  1.00e+00 to  7.03e+06R rates > 7.71e-19 of total= 1.54e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.55e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 5.80e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 7.55e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.94e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 502	1.53e-17	5.45e-35	8.58e-16	6.65e-13	7.36e-02	1.78e-02	9.99e-01	4.64e+02	1.53e-17	3.71e-26	1.61e-13	4.54e-17
+ GammaPrt 502.11 from  1.00e+00 to  7.03e+06R rates > 7.63e-19 of total= 1.53e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.48e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 5.82e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 7.61e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.94e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 503	1.51e-17	2.47e-35	8.63e-16	6.72e-13	7.29e-02	1.75e-02	9.99e-01	4.67e+02	1.51e-17	3.71e-26	1.61e-13	4.54e-17
+ GammaPrt 503.07 from  1.00e+00 to  7.03e+06R rates > 7.56e-19 of total= 1.51e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.43e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 5.74e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 7.66e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.95e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 504	1.50e-17	6.82e-36	8.74e-16	6.84e-13	7.19e-02	1.72e-02	9.99e-01	4.71e+02	1.50e-17	3.73e-26	1.64e-13	4.53e-17
+ GammaPrt 504.11 from  1.00e+00 to  7.03e+06R rates > 7.52e-19 of total= 1.50e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.32e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 6.14e-02 0.00 0.00 0.00 0.00 1.00 0.01 He 1      2.26e-18 
+ 6018 1.56e+00 7.69e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.94e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 505	1.47e-17	2.33e-36	8.81e-16	6.94e-13	7.09e-02	1.67e-02	9.99e-01	4.75e+02	1.47e-17	3.72e-26	1.64e-13	4.53e-17
+ GammaPrt 505.10 from  1.00e+00 to  7.03e+06R rates > 7.37e-19 of total= 1.47e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.33e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 5.32e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 7.81e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.96e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 506	1.47e-17	7.35e-37	8.89e-16	7.05e-13	7.01e-02	1.65e-02	9.99e-01	4.80e+02	1.47e-17	3.73e-26	1.66e-13	4.52e-17
+ GammaPrt 506.09 from  1.00e+00 to  7.03e+06R rates > 7.33e-19 of total= 1.47e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.22e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 5.71e-02 0.00 0.00 0.00 0.00 1.00 0.01 He 1      2.26e-18 
+ 6018 1.56e+00 7.83e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.95e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 507	1.44e-17	2.39e-37	8.97e-16	7.15e-13	6.91e-02	1.61e-02	9.99e-01	4.85e+02	1.44e-17	3.73e-26	1.66e-13	4.51e-17
+ GammaPrt 507.09 from  1.00e+00 to  7.03e+06R rates > 7.22e-19 of total= 1.44e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.20e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 5.16e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 7.93e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.96e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 508	1.44e-17	6.64e-38	9.06e-16	7.27e-13	6.83e-02	1.59e-02	9.99e-01	4.91e+02	1.44e-17	3.75e-26	1.69e-13	4.50e-17
+ GammaPrt 508.08 from  1.00e+00 to  7.03e+06R rates > 7.18e-19 of total= 1.44e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.09e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 5.62e-02 0.00 0.00 0.00 0.00 1.00 0.01 He 1      2.26e-18 
+ 6018 1.56e+00 7.95e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.95e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 509	1.41e-17	1.74e-38	9.14e-16	7.39e-13	6.73e-02	1.54e-02	9.99e-01	4.98e+02	1.41e-17	3.75e-26	1.69e-13	4.50e-17
+ GammaPrt 509.10 from  1.00e+00 to  7.03e+06R rates > 7.04e-19 of total= 1.41e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 7.09e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 8.09e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.97e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 510	1.40e-17	4.06e-39	9.24e-16	7.52e-13	6.64e-02	1.52e-02	9.99e-01	5.05e+02	1.40e-17	3.76e-26	1.72e-13	4.49e-17
+ GammaPrt 510.11 from  1.00e+00 to  7.03e+06R rates > 7.01e-19 of total= 1.40e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 6.99e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 5.18e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 8.11e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.96e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 511	1.40e-17	1.96e-39	9.29e-16	7.58e-13	6.59e-02	1.51e-02	9.99e-01	5.12e+02	1.40e-17	3.77e-26	1.73e-13	4.48e-17
+ GammaPrt 511.05 from  1.00e+00 to  7.03e+06R rates > 7.00e-19 of total= 1.40e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 6.88e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 5.84e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 8.08e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.95e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 512	1.40e-17	4.16e-40	9.41e-16	7.72e-13	6.50e-02	1.49e-02	9.99e-01	5.19e+02	1.40e-17	3.79e-26	1.76e-13	4.48e-17
+ GammaPrt 512.11 from  1.00e+00 to  7.03e+06R rates > 6.99e-19 of total= 1.40e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 6.75e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 6.59e-02 0.00 0.00 0.00 0.00 1.00 0.01 He 1      2.26e-18 
+ 6018 1.56e+00 8.08e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.93e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 513	1.36e-17	1.02e-40	9.48e-16	7.84e-13	6.41e-02	1.43e-02	9.99e-01	5.30e+02	1.36e-17	3.77e-26	1.76e-13	4.47e-17
+ GammaPrt 513.12 from  1.00e+00 to  7.03e+06R rates > 6.80e-19 of total= 1.36e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 6.81e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 8.28e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.97e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 514	1.35e-17	2.01e-41	9.59e-16	7.99e-13	6.32e-02	1.41e-02	9.99e-01	5.40e+02	1.35e-17	3.79e-26	1.78e-13	4.47e-17
+ GammaPrt 514.11 from  1.00e+00 to  7.03e+06R rates > 6.76e-19 of total= 1.35e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 6.72e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 5.27e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 8.31e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.96e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 515	1.35e-17	9.39e-42	9.64e-16	8.05e-13	6.28e-02	1.40e-02	9.99e-01	5.51e+02	1.35e-17	3.79e-26	1.80e-13	4.46e-17
+ GammaPrt 515.05 from  1.00e+00 to  7.03e+06R rates > 6.76e-19 of total= 1.35e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 6.62e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 5.92e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 8.29e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.94e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 516	1.35e-17	1.75e-42	9.76e-16	8.20e-13	6.19e-02	1.38e-02	9.99e-01	5.61e+02	1.35e-17	3.81e-26	1.83e-13	4.45e-17
+ GammaPrt 516.11 from  1.00e+00 to  7.03e+06R rates > 6.75e-19 of total= 1.35e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 6.48e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 6.67e-02 0.00 0.00 0.00 0.00 1.00 0.01 He 1      2.26e-18 
+ 6018 1.56e+00 8.28e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.93e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 517	1.31e-17	4.09e-43	9.82e-16	8.32e-13	6.11e-02	1.34e-02	9.99e-01	5.77e+02	1.31e-17	3.79e-26	1.82e-13	4.45e-17
+ GammaPrt 517.13 from  1.00e+00 to  7.03e+06R rates > 6.56e-19 of total= 1.31e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 6.55e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 5.04e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 8.49e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.96e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 518	1.31e-17	6.55e-44	9.94e-16	8.48e-13	6.02e-02	1.31e-02	9.99e-01	5.93e+02	1.31e-17	3.81e-26	1.85e-13	4.44e-17
+ GammaPrt 518.11 from  1.00e+00 to  7.03e+06R rates > 6.53e-19 of total= 1.31e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 6.45e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 5.33e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 8.52e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.96e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 519	1.30e-17	2.80e-44	9.99e-16	8.55e-13	5.98e-02	1.31e-02	9.99e-01	6.09e+02	1.30e-17	3.81e-26	1.87e-13	4.43e-17
+ GammaPrt 519.04 from  1.00e+00 to  7.03e+06R rates > 6.52e-19 of total= 1.30e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 6.35e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 5.98e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 8.50e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.94e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 520	1.30e-17	5.34e-45	1.01e-15	8.69e-13	5.91e-02	1.29e-02	9.99e-01	6.25e+02	1.30e-17	3.83e-26	1.90e-13	4.42e-17
+ GammaPrt 520.09 from  1.00e+00 to  7.03e+06R rates > 6.52e-19 of total= 1.30e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 6.22e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 6.74e-02 0.00 0.00 0.00 0.00 1.00 0.01 He 1      2.26e-18 
+ 6018 1.56e+00 8.48e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.93e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 521	1.27e-17	1.06e-45	1.02e-15	8.83e-13	5.82e-02	1.25e-02	9.99e-01	6.49e+02	1.27e-17	3.81e-26	1.89e-13	4.42e-17
+ GammaPrt 521.13 from  1.00e+00 to  7.03e+06R rates > 6.34e-19 of total= 1.27e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 6.28e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 5.09e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 8.69e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.96e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 522	1.26e-17	1.53e-46	1.03e-15	8.99e-13	5.74e-02	1.22e-02	9.99e-01	6.74e+02	1.26e-17	3.82e-26	1.92e-13	4.41e-17
+ GammaPrt 522.11 from  1.00e+00 to  7.03e+06R rates > 6.31e-19 of total= 1.26e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 6.18e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 5.38e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 8.72e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.95e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 523	1.26e-17	6.34e-47	1.03e-15	9.06e-13	5.71e-02	1.22e-02	9.99e-01	7.00e+02	1.26e-17	3.82e-26	1.93e-13	4.40e-17
+ GammaPrt 523.03 from  1.00e+00 to  7.03e+06R rates > 6.31e-19 of total= 1.26e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 6.08e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 6.05e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 8.70e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.94e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 524	1.26e-17	0.00e+00	1.05e-15	9.20e-13	5.64e-02	1.21e-02	9.99e-01	7.26e+02	1.26e-17	3.84e-26	1.97e-13	4.40e-17
+ GammaPrt 524.07 from  1.00e+00 to  7.03e+06R rates > 6.31e-19 of total= 1.26e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 5.95e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 6.82e-02 0.00 0.00 0.00 0.00 1.00 0.01 He 1      2.26e-18 
+ 6018 1.56e+00 8.67e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.92e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 525	1.23e-17	0.00e+00	1.05e-15	9.29e-13	5.57e-02	1.17e-02	9.99e-01	7.66e+02	1.23e-17	3.81e-26	1.95e-13	4.39e-17
+ GammaPrt 525.09 from  1.00e+00 to  7.03e+06R rates > 6.13e-19 of total= 1.23e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 6.01e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 5.14e-02 0.00 0.00 0.00 0.00 1.00 0.00 He 1      2.26e-18 
+ 6018 1.56e+00 8.88e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.96e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 526	1.22e-17	0.00e+00	1.06e-15	9.45e-13	5.49e-02	1.15e-02	9.99e-01	8.09e+02	1.22e-17	3.82e-26	1.97e-13	4.38e-17
+ GammaPrt 526.09 from  1.00e+00 to  7.03e+06R rates > 6.08e-19 of total= 1.22e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 5.89e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 5998 1.46e+00 5.45e-02 0.00 0.00 0.00 0.00 1.00 0.01 He 1      2.26e-18 
+ 6018 1.56e+00 8.91e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.96e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 527	1.18e-17	0.00e+00	1.07e-15	9.60e-13	5.41e-02	1.10e-02	9.99e-01	8.76e+02	1.18e-17	3.79e-26	1.96e-13	4.37e-17
+ GammaPrt 527.12 from  1.00e+00 to  7.03e+06R rates > 5.90e-19 of total= 1.18e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 5.93e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 9.15e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.99e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 528	1.17e-17	0.00e+00	1.08e-15	9.70e-13	5.36e-02	1.09e-02	9.99e-01	9.54e+02	1.17e-17	3.79e-26	1.97e-13	4.36e-17
+ GammaPrt 528.06 from  1.00e+00 to  7.03e+06R rates > 5.86e-19 of total= 1.17e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 5.82e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 9.17e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.99e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 529	1.17e-17	0.00e+00	1.09e-15	9.89e-13	5.27e-02	1.07e-02	9.99e-01	1.04e+03	1.17e-17	3.80e-26	2.01e-13	4.35e-17
+ GammaPrt 529.11 from  1.00e+00 to  7.03e+06R rates > 5.84e-19 of total= 1.17e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 5.66e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 9.18e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.98e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 530	1.13e-17	0.00e+00	1.10e-15	1.01e-12	5.19e-02	1.03e-02	9.99e-01	1.20e+03	1.13e-17	3.77e-26	1.99e-13	4.34e-17
+ GammaPrt 530.11 from  1.00e+00 to  7.03e+06R rates > 5.66e-19 of total= 1.13e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 5.64e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 9.42e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 2.01e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 531	1.12e-17	0.00e+00	1.11e-15	1.02e-12	5.12e-02	1.01e-02	9.99e-01	1.40e+03	1.12e-17	3.78e-26	2.02e-13	4.33e-17
+ GammaPrt 531.11 from  1.00e+00 to  7.03e+06R rates > 5.62e-19 of total= 1.12e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 5.46e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 9.45e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 2.01e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 532	1.12e-17	0.00e+00	1.12e-15	1.03e-12	5.08e-02	1.00e-02	9.99e-01	1.68e+03	1.12e-17	3.77e-26	2.04e-13	4.32e-17
+ GammaPrt 532.05 from  1.00e+00 to  7.03e+06R rates > 5.60e-19 of total= 1.12e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 5.27e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 9.43e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 2.00e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 533	1.11e-17	0.00e+00	1.13e-15	1.05e-12	5.00e-02	9.85e-03	9.99e-01	2.09e+03	1.11e-17	3.78e-26	2.07e-13	4.31e-17
+ GammaPrt 533.11 from  1.00e+00 to  7.03e+06R rates > 5.57e-19 of total= 1.11e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 5981 1.38e+00 5.02e-02 0.00 1.00 0.00 0.00 0.00 0.01 S  4      2.64e-18 
+ 6018 1.56e+00 9.44e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 1.98e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 534	1.08e-17	0.00e+00	1.14e-15	1.07e-12	4.92e-02	9.44e-03	9.99e-01	3.15e+03	1.08e-17	3.74e-26	2.05e-13	4.30e-17
+ GammaPrt 534.14 from  1.00e+00 to  7.03e+06R rates > 5.38e-19 of total= 1.08e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 6018 1.56e+00 9.65e-02 0.00 1.00 0.00 0.00 0.00 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 2.03e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 
+hion	 535	1.06e-17	0.00e+00	1.15e-15	1.08e-12	4.87e-02	9.25e-03	9.99e-01	6.43e+03	1.06e-17	3.73e-26	2.05e-13	4.29e-17
+ GammaPrt 535.06 from  1.00e+00 to  7.03e+06R rates > 5.30e-19 of total= 1.06e-17 (frac inc, otslin, otscon, ConInterOut, outlin ConOTS_local_OTS_rate ) chL, C
+ 6018 1.56e+00 9.63e-02 0.00 0.99 0.00 0.00 0.01 0.00 He 1 C  5 1.88e-18 
+ 6063 1.81e+00 2.04e-01 0.00 0.00 1.00 0.00 0.00 0.00 He 1 He 1 1.23e-18 

@@ -1,0 +1,22 @@
+#####################################
+title test
+#####################################
+set punch prefix "test"
+save last radius ".rad"
+save last continuum ".cont"
+save last physical conditions ".phy"
+save last overview ".ovr"
+save last heating ".heat"
+save last cooling ".cool"
+save last optical depth ".opd"
+save last element hydrogen ".ele_H"
+save last element helium ".ele_He"
+save last element carbon ".ele_C"
+save last element nitrogen ".ele_N"
+save last element oxygen ".ele_O"
+save last element argon ".ele_Ar"
+save last element neon ".ele_Ne"
+save last element sulphur ".ele_S"
+save last element chlorin ".ele_Cl"
+save last element iron ".ele_Fe"
+save last element silicon ".ele_Si"

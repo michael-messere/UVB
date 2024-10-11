@@ -1,0 +1,135 @@
+                                                          Cloudy 23.01
+                                                         www.nublado.org
+
+                                                  PRNG seed: 0x65e518a029c1e6a3
+
+                       **************************************23Jul25**************************************
+                       *                                                                                 *
+                       * title test                                                                      *
+                       * set punch prefix "test"                                                         *
+                       * table power law slope -0.5                                                      *
+                       * f(nu) = -21.900790135977903 at 1 Ryd                                            *
+                       * Hden = -5.539592905204813, power = 441.0401063429612                            *
+                       * Radius = 1000000 30000 linear parsecs                                           *
+                       * stop temperature off                                                            *
+                       * iterate 10                                                                      *
+                       * save last hydrogen ionization 912 ".ion"                                        *
+                       * save last radius ".rad"                                                         *
+                       * save last continuum ".cont"                                                     *
+                       * save last physical conditions ".phy"                                            *
+                       * save last overview ".ovr"                                                       *
+                       * save last heating ".heat"                                                       *
+                       * save last cooling ".cool"                                                       *
+                       * save last optical depth ".opd"                                                  *
+                       * save last element hydrogen ".ele_H"                                             *
+                       * save last element helium ".ele_He"                                              *
+                       * save last element carbon ".ele_C"                                               *
+                       * save last element nitrogen ".ele_N"                                             *
+                       * save last element oxygen ".ele_O"                                               *
+                       * save last element argon ".ele_Ar"                                               *
+                       * save last element neon ".ele_Ne"                                                *
+                       * save last element sulphur ".ele_S"                                              *
+                       * save last element chlorin ".ele_Cl"                                             *
+                       * save last element iron ".ele_Fe"                                                *
+                       * save last element silicon ".ele_Si"                                             *
+                       * save last lines emissivity  ".emis"                                             *
+                       *                                                                                 *
+                       ***********************************************************************************
+
+
+
+
+ NOTE
+ NOTE The simulation is going into neutral gas but cosmic rays are not included.
+ NOTE Ion-molecule chemistry will not occur without a source of ionization.
+ NOTE The chemistry network may collapse deep in molecular regions.
+ NOTE Consider adding galactic background cosmic rays with the COSMIC RAYS BACKGROUND command.
+ NOTE You may be making a BIG mistake.
+ NOTE
+
+
+
+ NOTE Is the entered value of the hydrogen density (2.89e-06) reasonable?
+ NOTE It seems pretty low to me.
+
+
+           9244CellPeak1.00E+00   Lo 3.04e-09=  29.98m   Hi-Con:7.13E+06 Ryd   E(hi):7.35E+06Ryd     E(hi):     100.00 MeV
+           I(nu>1ryd):  -4.1287   Average nu:9.102E+01   I( X-ray):  -4.2276   I(BalC):  -6.3837     Phi(BalmrC):   4.5791
+           phi(1.0-1.8): 3.9879   phi(1.8-4.0):  3.966   phi(4.0-20):  4.025   phi(20--):  3.896     Ion pht flx:3.747E+04
+           I(gam ray):  -4.9131   phi(gam r):   1.5708   I(Infred):  -6.4614   Alf(ox):  -0.5000     Total inten:  -4.1243
+           U(1.0----):4.330E-01   U(4.0----):2.133E-01   T(En-Den):7.586E-01   T(Comp):1.100E+08     nuJnu(912A):4.134E-07
+           Occ(FarIR):4.558E-13   Occ(H n=6):5.358E-18   Occ(1Ryd):1.907E-23   Occ(4R):1.480E-25     Occ (Nu-hi):0.000E+00
+           Tbr(FarIR):2.191E-16   Tbr(H n=6):2.347E-14   Tbr(1Ryd):3.010E-18   Tbr(4R):9.361E-20     Tbr (Nu-hi):0.000E+00
+  
+                                                  Gas Phase Chemical Composition
+        H :  0.0000  He: -1.0000  Li: -8.6904  Be:-10.5800  B : -9.2097  C : -3.6108  N : -4.0701  O : -3.3098  F : -7.5200
+        Ne: -4.0000  Na: -5.6696  Mg: -4.4597  Al: -5.5302  Si: -4.4597  P : -6.4949  S : -4.7352  Cl: -6.7190  Ar: -5.6003
+        K : -6.8794  Ca: -5.6402  Sc: -8.8297  Ti: -6.9788  V : -8.0000  Cr: -6.3298  Mn: -6.5406  Fe: -4.5498  Co: -7.0799
+                                               Ni: -5.7496  Cu: -7.7905  Zn: -7.4001
+ 
+ ####  1  Te:9.949E+04 Hden:1.082E-05 Ne:1.306E-05 R:3.090E+24 R-R0:4.629E+21 dR:9.257E+21 NTR: 87 Htot:2.300E-33 T912: 6.93e-06###
+ Hydrogen      1.09e-05 1.00e+00 H+o/Hden 1.00e+00 1.40e-13 H-    H2 1.70e-19 4.42e-15 H2+ HeH+ 9.82e-17 Ho+ ColD 1.09e+12 1.00e+17
+ Helium        1.70e-07 1.19e-03 9.99e-01 HeI 2s3S 4.06e-17 Comp H,C 3.43e-35 3.10e-38 Fill Fac 1.00e+00 Gam1/tot 4.43e-01
+ He singlet n  1.70e-07 8.73e-24 2.94e-30 4.90e-30 2.06e-30 6.86e-30 He tripl 4.06e-17 3.38e-28 1.08e-29 6.75e-29 1.68e-29
+ Pressure      NgasTgas 2.48e+00 P(total) 3.43e-16 P( gas ) 3.43e-16 P(Radtn) 0.00e+00 Rad accl 3.45e-15 ForceMul 4.75e+00
+ Texc(La)      2.38e+03 T(I con) 7.57e-01 T(D con) 2.03e-02 T(U tot) 7.57e-01 nT (c+d) 1.88e+05 Prad/Gas 0.00e+00 Pmag/Gas 0.00e+00
+ Molecules     CH/Ctot: 3.14e-25 CH+/Ctot 6.89e-22 CO/Ctot: 2.49e-36 CO+/Ctot 2.09e-32 H2O/Otot 5.90e-41 OH/Ototl 5.42e-26
+ Lithium       8.75e-12 9.49e-06 1.10e-02 9.89e-01 Berylliu 1.30e-11 2.36e-08 3.27e-04 5.39e-02 9.46e-01 sec ion: 0.00e+00
+ Boron         2.34e-11 6.49e-08 4.85e-06 4.33e-03 1.52e-01 8.44e-01
+ Carbon        2.05e-11 6.77e-08 8.35e-06 1.45e-04 2.81e-02 3.14e-01 6.58e-01 H2O+/O   2.55e-41 OH+/Otot 5.29e-26 Hex(tot) 0.00e+00
+ Nitrogen      1.05e-11 4.32e-08 8.57e-06 2.36e-04 1.73e-03 1.07e-01 4.63e-01 4.28e-01 O2/Ototl 3.29e-37 O2+/Otot 2.35e-37
+ Oxygen        2.10e-12 1.18e-08 4.64e-06 2.39e-04 2.69e-03 1.06e-02 2.59e-01 5.00e-01 2.27e-01
+ Fluorine      5.83e-13 3.15e-09 1.35e-06 1.51e-04 3.22e-03 1.78e-02 3.85e-02 4.29e-01 4.11e-01 9.98e-02
+ Neon          4.02e-14 4.24e-10 3.85e-07 4.96e-05 2.21e-03 2.31e-02 6.34e-02 9.16e-02 5.16e-01 2.67e-01 3.70e-02
+ Sodium        3.94e-17 2.47e-11 6.54e-08 2.15e-05 1.16e-03 2.08e-02 1.06e-01 1.50e-01 1.38e-01 4.41e-01 1.31e-01 1.10e-02
+ Magnesium     2.17e-17 5.50e-14 1.74e-09 1.77e-06 2.63e-04 6.14e-03 6.21e-02 1.95e-01 2.30e-01 1.54e-01 2.97e-01 5.30e-02 2.81e-03
+ Aluminium  1  1.51e-13 1.60e-11 8.61e-08 3.52e-05 3.37e-03 3.53e-02 1.89e-01 3.40e-01 2.09e-01 8.99e-02 1.19e-01 1.35e-02 4.68e-04
+ Silicon    2  1.66e-10 3.46e-09 4.47e-06 7.42e-04 2.68e-02 1.97e-01 3.55e-01 2.69e-01 8.56e-02 3.43e-02 2.90e-02 2.15e-03 5.05e-05
+ Phosphorus 3  1.28e-08 1.36e-07 6.78e-05 5.15e-03 7.46e-02 2.36e-01 4.11e-01 1.98e-01 5.28e-02 1.39e-02 9.17e-03 4.60e-04 7.50e-06
+ Sulphur    4  4.62e-07 3.11e-06 7.03e-04 2.72e-02 2.04e-01 2.90e-01 2.86e-01 1.54e-01 2.94e-02 5.92e-03 3.00e-03 1.05e-04 1.22e-06
+ Chlorine   4  1.80e-06 7.32e-06 3.54e-05 4.08e-03 6.65e-02 3.39e-01 3.89e-01 1.55e-01 4.08e-02 5.09e-03 1.04e-03 3.63e-04 9.01e-06
+ Argon      5  3.55e-05 7.97e-05 2.95e-04 1.92e-02 1.60e-01 3.60e-01 2.97e-01 1.40e-01 2.14e-02 1.98e-03 3.04e-04 8.87e-05 1.60e-06
+ Potassium  5  1.09e-04 3.00e-04 4.69e-04 1.33e-03 5.19e-02 3.17e-01 4.28e-01 1.65e-01 3.24e-02 2.77e-03 3.35e-04 3.41e-05 9.48e-06
+ Calcium    6  9.91e-04 1.80e-03 1.86e-03 4.31e-03 1.06e-01 3.76e-01 3.50e-01 1.27e-01 2.80e-02 3.64e-03 2.52e-04 2.24e-05 5.05e-06
+ Scandium   7  8.59e-03 9.19e-03 6.76e-03 1.14e-02 1.90e-01 3.89e-01 3.18e-01 5.66e-02 6.28e-03 6.23e-04 3.77e-05 3.25e-06 5.62e-07
+ Titanium   7  2.41e-02 3.69e-02 3.00e-02 1.67e-02 2.89e-02 3.17e-01 3.46e-01 1.62e-01 2.58e-02 1.41e-03 1.08e-04 4.25e-06 3.96e-07
+ Vanadium   7  8.60e-02 1.02e-01 8.75e-02 4.57e-02 3.58e-02 4.22e-02 3.33e-01 2.03e-01 4.60e-02 5.07e-03 1.77e-04 9.37e-06 2.95e-07
+ Chromium   7  8.04e-02 1.87e-01 1.32e-01 8.43e-02 3.55e-02 5.32e-02 3.48e-02 2.13e-01 1.45e-01 2.20e-02 1.47e-03 8.29e-05 2.11e-06
+ Manganese  7  6.74e-02 1.68e-01 4.06e-01 1.53e-01 1.04e-01 2.51e-02 9.95e-03 5.82e-03 2.40e-02 1.14e-02 1.63e-03 1.08e-04 3.53e-06
+ Iron       8  2.76e-01 2.97e-01 1.60e-01 6.11e-02 2.45e-02 8.80e-03 3.68e-03 3.24e-03 1.05e-02 3.39e-03 5.57e-04 2.55e-05 6.71e-07
+ Cobalt     8  1.54e-01 2.87e-01 2.10e-01 2.28e-01 4.81e-02 1.67e-02 3.19e-03 9.96e-04 6.24e-04 1.34e-03 3.12e-04 3.71e-05 1.37e-06
+ Nickel     8  8.88e-02 2.83e-01 1.95e-01 2.17e-01 1.57e-01 2.66e-02 6.73e-03 1.47e-03 3.15e-04 1.71e-04 2.91e-04 4.06e-05 3.65e-06
+ Copper     8  8.23e-02 3.27e-01 2.91e-01 1.23e-01 1.14e-01 3.69e-02 5.44e-03 1.04e-03 1.77e-04 3.09e-05 1.22e-05 1.84e-05 1.72e-06
+ Zinc       9  2.14e-01 2.26e-01 2.81e-01 1.47e-01 5.52e-02 1.97e-02 1.64e-03 3.90e-04 4.53e-05 1.17e-05 2.66e-06 4.02e-06 2.34e-07
+ PROBLEM  ConvFail 1,  ionization not converged iteration 1 zone 493 fnzone 501.30 reason eden chng BadConvIoniz0:0.00043618 [1]=0.000440659
+ PROBLEM  ConvFail 2,  ionization not converged iteration 1 zone 494 fnzone 502.99 reason eden chng BadConvIoniz0:0.000444312 [1]=0.000440847
+ PROBLEM  ConvFail 3,  ionization not converged iteration 1 zone 495 fnzone 507.99 reason eden chng BadConvIoniz0:0.000430066 [1]=0.000434509
+ PROBLEM  ConvFail 4,  ionization not converged iteration 1 zone 496 fnzone 506.99 reason eden chng BadConvIoniz0:0.00042741 [1]=0.000432292
+ PROBLEM  ConvFail 5,  ionization not converged iteration 1 zone 497 fnzone 507.99 reason eden chng BadConvIoniz0:0.000426726 [1]=0.000436596
+ PROBLEM  ConvFail 6,  ionization not converged iteration 1 zone 498 fnzone 527.49 reason eden chng BadConvIoniz0:0.000422522 [1]=0.000432532
+ PROBLEM  ConvFail 7,  ionization not converged iteration 1 zone 499 fnzone 525.49 reason eden chng BadConvIoniz0:0.000420784 [1]=0.000422956
+ PROBLEM  ConvFail 8,  ionization not converged iteration 1 zone 500 fnzone 519.99 reason eden chng BadConvIoniz0:0.000417114 [1]=0.000424048
+ PROBLEM  ConvFail 9,  ionization not converged iteration 1 zone 501 fnzone 519.99 reason eden chng BadConvIoniz0:0.000415808 [1]=0.000422277
+ PROBLEM  ConvFail 10,  ionization not converged iteration 1 zone 502 fnzone 529.99 reason eden chng BadConvIoniz0:0.00043736 [1]=0.00042753
+ PROBLEM ConvBase aborts since nPres2Ioniz exceeds limPres2Ioniz. Their values are 3001 and 3000. Search phase? F T:1.349e+01
+ Reset this limit with the SET PRES IONIZ command.
+ ABORT DISASTER PROBLEM - Cloudy aborted, reason: nPres2Ioniz exceeds limPres2Ioniz
+
+PRNG seed: 0x65e518a029c1e6a3
+
+Backtrace follows:
+
+1   cloudy.exe                          0x0000000100884248 cloudy_abort::cloudy_abort(char const*) + 52
+2   cloudy.exe                          0x000000010089c29c ConvBase(long) + 15548
+3   cloudy.exe                          0x000000010089ff30 ConvIoniz() + 232
+4   cloudy.exe                          0x000000010089e6d8 EdenError(double) + 108
+5   cloudy.exe                          0x000000010089e2cc ConvEdenIoniz() + 2908
+6   cloudy.exe                          0x00000001008a2338 CoolHeatError(double) + 116
+7   cloudy.exe                          0x00000001008a1e28 ConvTempEdenIoniz() + 1728
+8   cloudy.exe                          0x00000001008a1200 ConvPresTempEdenIoniz() + 1156
+9   cloudy.exe                          0x0000000100889b88 cloudy() + 532
+10  cloudy.exe                          0x0000000100884430 cdDrive() + 412
+11  cloudy.exe                          0x000000010084e7cc cdMain(int, char const**) + 2700
+12  cloudy.exe                          0x000000010084d4f8 main + 1544
+13  dyld                                0x0000000101a7908c start + 520
+
